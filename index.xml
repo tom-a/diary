@@ -1,4 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Tue, 12 Nov 2024 20:20:30 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>最短翌日</title><link>https://tomoaki.akiyama.nu/diary/post/2024/11/12/</link><pubDate>Tue, 12 Nov 2024 20:20:30 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2024/11/12/</guid><description>&lt;p>晴れ&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Wed, 13 Nov 2024 22:20:30 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>回線切り替え</title><link>https://tomoaki.akiyama.nu/diary/post/2024/11/13/</link><pubDate>Wed, 13 Nov 2024 22:20:30 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2024/11/13/</guid><description>&lt;p>晴れ&lt;/p>
+&lt;h2 id="回線切り替え">回線切り替え&lt;/h2>
+&lt;p>Y!mobileのSIMが届いたので、切替を行う。
+これもオンラインで手続きして、ものの数分で完了。
+物理的なSIMなので、Pixel9の電源を落としてから交換。
+するとAPNを設定する必要もなく、使えるようになっていた。
+MySoftbankアプリは同じIDとパスワードでログインしても、
+表示はY!mobileに切り替わっている。
+そしてWebのMy SoftBankにはもうログインできない。
+ローンの確認とかどうするんだろうねえ。&lt;/p></description></item><item><title>最短翌日</title><link>https://tomoaki.akiyama.nu/diary/post/2024/11/12/</link><pubDate>Tue, 12 Nov 2024 20:20:30 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2024/11/12/</guid><description>&lt;p>晴れ&lt;/p>
 &lt;h2 id="最短翌日">最短翌日&lt;/h2>
 &lt;p>Y!mobileにオンラインで申し込むと最短で翌日発送になるらしい。
 が、今日01:00頃に申し込んで17:00に発送のメールが来た。
