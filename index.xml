@@ -1,4 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Mon, 18 Nov 2024 19:04:51 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>ファームウエアアップデート</title><link>https://tomoaki.akiyama.nu/diary/post/2024/11/18/</link><pubDate>Mon, 18 Nov 2024 19:04:51 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2024/11/18/</guid><description>&lt;p>雨のち曇り&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Tue, 19 Nov 2024 21:04:51 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>ScanSnap</title><link>https://tomoaki.akiyama.nu/diary/post/2024/11/19/</link><pubDate>Tue, 19 Nov 2024 21:04:51 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2024/11/19/</guid><description>&lt;p>晴れ&lt;/p>
+&lt;h2 id="scansnap">ScanSnap&lt;/h2>
+&lt;p>久しぶりに使おうと思ったら、
+グリスだか接着剤だか何だか分からないが、
+蕩けだしてフィード部分から底面までベッタリと付いていた。
+おまけにサポート終了とやらで、
+ドライバソフトがダウンロードできない。
+MacBook Airで使おうと思ったのになあ。&lt;/p></description></item><item><title>ファームウエアアップデート</title><link>https://tomoaki.akiyama.nu/diary/post/2024/11/18/</link><pubDate>Mon, 18 Nov 2024 19:04:51 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2024/11/18/</guid><description>&lt;p>雨のち曇り&lt;/p>
 &lt;h2 id="ファームウエアアップデート">ファームウエアアップデート&lt;/h2>
 &lt;p>EOS R7のファームウエアを、
 1.5.0から1.6.0にアップデート。
