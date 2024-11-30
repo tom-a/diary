@@ -1,4 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Fri, 29 Nov 2024 23:04:46 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>リモートデスクトップ</title><link>https://tomoaki.akiyama.nu/diary/post/2024/11/29/</link><pubDate>Fri, 29 Nov 2024 23:04:46 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2024/11/29/</guid><description>&lt;p>晴れ&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Sat, 30 Nov 2024 19:07:16 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>バッテリー交換</title><link>https://tomoaki.akiyama.nu/diary/post/2024/11/30/</link><pubDate>Sat, 30 Nov 2024 19:07:16 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2024/11/30/</guid><description>&lt;p>快晴&lt;/p>
+&lt;h2 id="バッテリー交換">バッテリー交換&lt;/h2>
+&lt;p>太陽光発電で充電していたシールド鉛バッテリーだが、
+フロート充電まで持っていっても電圧が11.4Vくらいにまで低下してしまった。
+なので、秋月電子通商で同じメーカーのバッテリーを購入して交換した。
+とはいえ、12V14Ahから12V22Ahへ容量アップである。
+もとも12V14Ahは20Wパネルとのセット商品だったのだ。
+今は2倍の40Wになっているから、それなりに増やしてみた。
+本当は30Ahくらいにしたいところだが、
+22Ahだと9600円と1万円を切っていたのと、
+36Ahだと奥行きが倍になるので置き場所に困るのであった。&lt;/p></description></item><item><title>リモートデスクトップ</title><link>https://tomoaki.akiyama.nu/diary/post/2024/11/29/</link><pubDate>Fri, 29 Nov 2024 23:04:46 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2024/11/29/</guid><description>&lt;p>晴れ&lt;/p>
 &lt;h2 id="リモートデスクトップ">リモートデスクトップ&lt;/h2>
 &lt;p>macからwindoiwsにリモートデスクトップでアクセスすると、
 変換/無変換キーと英数/かなキーあたりが鬼門。&lt;/p>
