@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Sat, 14 Dec 2024 22:25:46 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>友あり。遠方より来たる。</title><link>https://tomoaki.akiyama.nu/diary/post/2024/12/14/</link><pubDate>Sat, 14 Dec 2024 22:25:46 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2024/12/14/</guid><description>&lt;p>晴れ&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Sun, 15 Dec 2024 23:25:46 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>VPN</title><link>https://tomoaki.akiyama.nu/diary/post/2024/12/15/</link><pubDate>Sun, 15 Dec 2024 23:25:46 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2024/12/15/</guid><description>&lt;p>晴れ&lt;/p>
+&lt;h2 id="vpn">VPN&lt;/h2>
+&lt;p>自宅へのVPN、なかなかうまく行かない。
+WireGuradはコネクトするのだが、ルーティングがうまく行かない。
+sshだと、macにtapインターフェイスが無い。
+&lt;code>brew cask install tuntap&lt;/code>で行けるのか？&lt;/p></description></item><item><title>友あり。遠方より来たる。</title><link>https://tomoaki.akiyama.nu/diary/post/2024/12/14/</link><pubDate>Sat, 14 Dec 2024 22:25:46 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2024/12/14/</guid><description>&lt;p>晴れ&lt;/p>
 &lt;h2 id="友あり遠方より来たる">友あり。遠方より来たる。&lt;/h2>
 &lt;p>ちょうど1年ぶりである。
 学生の頃は月に1回お茶していたものだが、
