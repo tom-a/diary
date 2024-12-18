@@ -1,4 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Sun, 15 Dec 2024 23:25:46 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>VPN</title><link>https://tomoaki.akiyama.nu/diary/post/2024/12/15/</link><pubDate>Sun, 15 Dec 2024 23:25:46 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2024/12/15/</guid><description>&lt;p>晴れ&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Tue, 17 Dec 2024 23:25:46 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>sshで2要素認証</title><link>https://tomoaki.akiyama.nu/diary/post/2024/12/17/</link><pubDate>Tue, 17 Dec 2024 23:25:46 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2024/12/17/</guid><description>&lt;p>晴れ&lt;/p>
+&lt;h2 id="sshで2要素認証">sshで2要素認証&lt;/h2>
+&lt;p>keyにecdsa-skを使うと、
+Windows 11 24H2でノートPCの顔認証や指紋認証が使える。&lt;/p>
+&lt;p>意外なことに、
+MacBook Airではダメだった。
+まあこちらはこちらでssh-agentが自動起動したり、
+Key Chainと連動したりとかやってくれるけど。&lt;/p></description></item><item><title>24H2</title><link>https://tomoaki.akiyama.nu/diary/post/2024/12/16/</link><pubDate>Mon, 16 Dec 2024 23:25:46 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2024/12/16/</guid><description>&lt;p>晴れ&lt;/p>
+&lt;h2 id="24h2">24H2&lt;/h2>
+&lt;p>なかなか来ないなあと思っていたが、
+立て続けに自宅ワークマシンとThinkBook 13xにWindows 11
+24H2がインストールできるようになった。
+さっそくアップデート。
+ThinkBookの方は顔認証と指紋認証を登録しなおすことになったが。&lt;/p></description></item><item><title>VPN</title><link>https://tomoaki.akiyama.nu/diary/post/2024/12/15/</link><pubDate>Sun, 15 Dec 2024 23:25:46 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2024/12/15/</guid><description>&lt;p>晴れ&lt;/p>
 &lt;h2 id="vpn">VPN&lt;/h2>
 &lt;p>自宅へのVPN、なかなかうまく行かない。
 WireGuradはコネクトするのだが、ルーティングがうまく行かない。
