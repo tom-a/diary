@@ -1,4 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Fri, 10 Jan 2025 19:50:53 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>記憶域プール</title><link>https://tomoaki.akiyama.nu/diary/post/2025/01/10/</link><pubDate>Fri, 10 Jan 2025 19:50:53 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/01/10/</guid><description>&lt;p>晴れ&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Sat, 11 Jan 2025 23:52:13 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>ハードディスク入れ替え</title><link>https://tomoaki.akiyama.nu/diary/post/2025/01/11/</link><pubDate>Sat, 11 Jan 2025 23:52:13 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/01/11/</guid><description>&lt;p>晴れ&lt;/p>
+&lt;h2 id="ハードディスク入れ替え">ハードディスク入れ替え&lt;/h2>
+&lt;p>zfsなpublic1のハードディスクを、
+MD04ACA300 x 4から&lt;/p>
+&lt;ul>
+&lt;li>ST4000DM004 x2&lt;/li>
+&lt;li>DT02ABA400&lt;/li>
+&lt;li>WD40EZAX&lt;/li>
+&lt;/ul>
+&lt;p>に入れ替え。&lt;/p>
+&lt;p>中身はあらかじめワークマシンにコピーした上で削除したので、
+リビルドにはさして時間がかからなかった。
+これからファイルをコピーするのでなかなかバカにならない時間がかかるが、
+リビルドの最中にハードディスクのエラーが頻発しては目も当てられない。&lt;/p></description></item><item><title>記憶域プール</title><link>https://tomoaki.akiyama.nu/diary/post/2025/01/10/</link><pubDate>Fri, 10 Jan 2025 19:50:53 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/01/10/</guid><description>&lt;p>晴れ&lt;/p>
 &lt;h2 id="記憶域プール">記憶域プール&lt;/h2>
 &lt;p>パリティを設定した記憶域プールは、書き込みがとても遅い。
 大容量のファイルをたくさんコピーすると、
