@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Sat, 11 Jan 2025 23:52:13 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>ハードディスク入れ替え</title><link>https://tomoaki.akiyama.nu/diary/post/2025/01/11/</link><pubDate>Sat, 11 Jan 2025 23:52:13 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/01/11/</guid><description>&lt;p>晴れ&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Sun, 12 Jan 2025 23:52:13 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>ファイルサーバー復活</title><link>https://tomoaki.akiyama.nu/diary/post/2025/01/12/</link><pubDate>Sun, 12 Jan 2025 23:52:13 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/01/12/</guid><description>&lt;p>曇り&lt;/p>
+&lt;h2 id="ファイルサーバー復活">ファイルサーバー復活&lt;/h2>
+&lt;p>コピーしてあったファイルを書き戻して、
+ファイルサーバー復活。
+容量が増えたので、ちょっとファイルの配置を考えるかな。&lt;/p></description></item><item><title>ハードディスク入れ替え</title><link>https://tomoaki.akiyama.nu/diary/post/2025/01/11/</link><pubDate>Sat, 11 Jan 2025 23:52:13 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/01/11/</guid><description>&lt;p>晴れ&lt;/p>
 &lt;h2 id="ハードディスク入れ替え">ハードディスク入れ替え&lt;/h2>
 &lt;p>zfsなpublic1のハードディスクを、
 MD04ACA300 x 4から&lt;/p>
