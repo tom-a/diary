@@ -1,4 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Mon, 13 Jan 2025 23:52:13 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>3台充電</title><link>https://tomoaki.akiyama.nu/diary/post/2025/01/13/</link><pubDate>Mon, 13 Jan 2025 23:52:13 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/01/13/</guid><description>&lt;p>晴れ&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Tue, 14 Jan 2025 14:15:52 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>ベアリング支持</title><link>https://tomoaki.akiyama.nu/diary/post/2025/01/14/</link><pubDate>Tue, 14 Jan 2025 14:15:52 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/01/14/</guid><description>&lt;p>晴れ&lt;/p>
+&lt;h2 id="ベアリング支持">ベアリング支持&lt;/h2>
+&lt;p>&lt;a href="https://www.elecom.co.jp/products/M-IT11BRBK.html">https://www.elecom.co.jp/products/M-IT11BRBK.html&lt;/a>
+&lt;br>
+&lt;a href="https://amzn.to/4ahrKsI">https://amzn.to/4ahrKsI&lt;/a>&lt;/p>
+&lt;p>今まで使ったトラックボールは、みな人工ルビーを使ったものだった。
+エレコムからローラーベアリングを使ったトラックボールが出たので、買ってみた。
+標準価格は1万6885円だが、直販サイトでは9480円。
+ヨドバシカメラだと6260円になり、amazon.co.jpでは5688円だった。&lt;/p></description></item><item><title>3台充電</title><link>https://tomoaki.akiyama.nu/diary/post/2025/01/13/</link><pubDate>Mon, 13 Jan 2025 23:52:13 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/01/13/</guid><description>&lt;p>晴れ&lt;/p>
 &lt;h2 id="3台充電">3台充電&lt;/h2>
 &lt;p>Pixel 6aとPixel 8とRazer 40とを同時に充電したが、
 50Wの太陽電池にきちんと太陽光が当たっていれば余裕である。&lt;/p></description></item><item><title>ファイルサーバー復活</title><link>https://tomoaki.akiyama.nu/diary/post/2025/01/12/</link><pubDate>Sun, 12 Jan 2025 23:52:13 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/01/12/</guid><description>&lt;p>曇り&lt;/p>
@@ -536,22 +544,22 @@ end
 &lt;table>
  &lt;thead>
  &lt;tr>
- &lt;th style="text-align: left">機種&lt;/th>
- &lt;th style="text-align: left">画面ピクセル数&lt;/th>
+ &lt;th>機種&lt;/th>
+ &lt;th>画面ピクセル数&lt;/th>
  &lt;/tr>
  &lt;/thead>
  &lt;tbody>
  &lt;tr>
- &lt;td style="text-align: left">ipadpro&lt;/td>
- &lt;td style="text-align: left">2224x1668&lt;/td>
+ &lt;td>ipadpro&lt;/td>
+ &lt;td>2224x1668&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">iapd9&lt;/td>
- &lt;td style="text-align: left">2160x1620&lt;/td>
+ &lt;td>iapd9&lt;/td>
+ &lt;td>2160x1620&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">iapd10&lt;/td>
- &lt;td style="text-align: left">2360x1640&lt;/td>
+ &lt;td>iapd10&lt;/td>
+ &lt;td>2360x1640&lt;/td>
  &lt;/tr>
  &lt;/tbody>
 &lt;/table>
