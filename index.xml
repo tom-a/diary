@@ -1,4 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Fri, 24 Jan 2025 20:07:25 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>FreeBSDアップデート</title><link>https://tomoaki.akiyama.nu/diary/post/2025/01/24/</link><pubDate>Fri, 24 Jan 2025 20:07:25 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/01/24/</guid><description>&lt;p>晴れ&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Sat, 25 Jan 2025 22:14:28 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>ブートローダー</title><link>https://tomoaki.akiyama.nu/diary/post/2025/01/25/</link><pubDate>Sat, 25 Jan 2025 22:14:28 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/01/25/</guid><description>&lt;p>雨のち曇り&lt;/p>
+&lt;h2 id="ブートローダー">ブートローダー&lt;/h2>
+&lt;p>FreeBSDをアップグレードして、zpoolとzfsもアップグレードした。
+で、ブートローダーの更新を忘れていたものだからブートできなくなってしまった。
+なのでインストール用のUSBメモリを作ってそこからブートして、
+ada0p1のブートローダーを書き換えた。
+再インストールするハメにならなくてよかった。&lt;/p></description></item><item><title>FreeBSDアップデート</title><link>https://tomoaki.akiyama.nu/diary/post/2025/01/24/</link><pubDate>Fri, 24 Jan 2025 20:07:25 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/01/24/</guid><description>&lt;p>晴れ&lt;/p>
 &lt;h2 id="freebsdアップデート">FreeBSDアップデート&lt;/h2>
 &lt;p>ルーターにしているPCのOSをFreeBSD 14.2にアップデート。
 再起動後のfreebsd-upgrade installにやたら時間がかかった。&lt;/p></description></item><item><title>生産終了</title><link>https://tomoaki.akiyama.nu/diary/post/2025/01/23/</link><pubDate>Thu, 23 Jan 2025 19:07:25 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/01/23/</guid><description>&lt;p>晴れ&lt;/p>
