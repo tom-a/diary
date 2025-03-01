@@ -1,4 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Fri, 28 Feb 2025 21:46:18 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>auto complete</title><link>https://tomoaki.akiyama.nu/diary/post/2025/02/28/</link><pubDate>Fri, 28 Feb 2025 21:46:18 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/02/28/</guid><description>&lt;p>晴れ&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Sat, 01 Mar 2025 23:29:46 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>コリコランワイド使ってみた</title><link>https://tomoaki.akiyama.nu/diary/post/2025/03/01/</link><pubDate>Sat, 01 Mar 2025 23:29:46 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/03/01/</guid><description>&lt;p>晴れ&lt;/p>
+&lt;h2 id="コリコランワイド使ってみた">コリコランワイド使ってみた&lt;/h2>
+&lt;p>充電が終わったら、スイッチを入れて羽織るだけと大変お手軽。
+それなりに効果はあるように思うが、
+肩井のツボを刺激するにはちと辛い。
+ここは従来のコリコランの出番だろう。
+怖くて併用はできないが。&lt;/p></description></item><item><title>auto complete</title><link>https://tomoaki.akiyama.nu/diary/post/2025/02/28/</link><pubDate>Fri, 28 Feb 2025 21:46:18 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/02/28/</guid><description>&lt;p>晴れ&lt;/p>
 &lt;h1 id="auto-complete">auto complete&lt;/h1>
 &lt;p>emacsを30.1にしたら、なぜかauto completeがエラーを出すようになった。
 無くても困らないので、パッケージをアンインストールした。&lt;/p></description></item><item><title>emacs</title><link>https://tomoaki.akiyama.nu/diary/post/2025/02/27/</link><pubDate>Thu, 27 Feb 2025 17:46:18 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/02/27/</guid><description>&lt;p>晴れ&lt;/p>
