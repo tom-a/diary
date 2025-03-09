@@ -1,4 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Thu, 06 Mar 2025 22:25:45 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>上野東京ライン</title><link>https://tomoaki.akiyama.nu/diary/post/2025/03/06/</link><pubDate>Thu, 06 Mar 2025 22:25:45 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/03/06/</guid><description>&lt;p>曇り&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Sat, 08 Mar 2025 21:25:45 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>買い物</title><link>https://tomoaki.akiyama.nu/diary/post/2025/03/08/</link><pubDate>Sat, 08 Mar 2025 21:25:45 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/03/08/</guid><description>&lt;p>曇りのち雨、一時雪&lt;/p>
+&lt;h2 id="買い物">買い物&lt;/h2>
+&lt;p>時々雨に雪が混じるくらいの天気。
+その合間を縫って昼食を食べに出たり、
+SUNAMOまで買い物に行ったり。&lt;/p></description></item><item><title>いい天気</title><link>https://tomoaki.akiyama.nu/diary/post/2025/03/07/</link><pubDate>Fri, 07 Mar 2025 21:25:45 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/03/07/</guid><description>&lt;p>晴れ&lt;/p>
+&lt;h2 id="いい天気">いい天気&lt;/h2>
+&lt;p>久しぶりに晴れた。
+太陽電池も最大で20W以上発電していた。
+もっとバッテリーが減っていれば、発電量も上がったんだろうなあ。&lt;/p>
+&lt;h2 id="leafel">leaf.el&lt;/h2>
+&lt;p>emacsのパッケージ管理をinit.elで行うためのemacs lisp。
+色々と条件判断ができるので、
+一つのinit.elでLinux/Mac/Windowsすべてに対応できるかも。&lt;/p></description></item><item><title>上野東京ライン</title><link>https://tomoaki.akiyama.nu/diary/post/2025/03/06/</link><pubDate>Thu, 06 Mar 2025 22:25:45 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/03/06/</guid><description>&lt;p>曇り&lt;/p>
 &lt;h2 id="上野東京ライン">上野東京ライン&lt;/h2>
 &lt;p>うまく乗れれば、三河島から東京まで20分である。
 改めて便利なところにすんでいるなあと思う。&lt;/p></description></item><item><title>発電</title><link>https://tomoaki.akiyama.nu/diary/post/2025/03/05/</link><pubDate>Wed, 05 Mar 2025 19:25:45 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/03/05/</guid><description>&lt;p>雨のち曇り&lt;/p>
