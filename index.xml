@@ -1,4 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Tue, 11 Mar 2025 19:26:23 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>emacsでの補完</title><link>https://tomoaki.akiyama.nu/diary/post/2025/03/11/</link><pubDate>Tue, 11 Mar 2025 19:26:23 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/03/11/</guid><description>&lt;p>曇り一時雨&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Wed, 12 Mar 2025 14:29:20 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>WebStorm</title><link>https://tomoaki.akiyama.nu/diary/post/2025/03/12/</link><pubDate>Wed, 12 Mar 2025 14:29:20 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/03/12/</guid><description>&lt;p>曇りのち雨&lt;/p>
+&lt;h2 id="webstorm">WebStorm&lt;/h2>
+&lt;p>IntelliJ IDEAベースと覚しきIDE。
+JavaScriptとTypeScriptに特化しているようだが、
+関連するHTML、CSSにも対応している。
+All in Oneなのでプラグインに悩まなくてすむ。
+学習と独学、コンテンツ制作、趣味の開発、非商用の範囲なら無料なのだとか。
+ちょっと使ってみたが、
+これが無料ならVisual Studio Codeよりいいかもしれない。&lt;/p></description></item><item><title>emacsでの補完</title><link>https://tomoaki.akiyama.nu/diary/post/2025/03/11/</link><pubDate>Tue, 11 Mar 2025 19:26:23 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/03/11/</guid><description>&lt;p>曇り一時雨&lt;/p>
 &lt;h2 id="emacsでの補完">emacsでの補完&lt;/h2>
 &lt;p>今までhelmを使っていたが、
 ivyとかverticoに変えたらずいぶん軽くなった。
