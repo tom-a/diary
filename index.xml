@@ -1,4 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Thu, 13 Mar 2025 23:26:39 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>migemo</title><link>https://tomoaki.akiyama.nu/diary/post/2025/03/13/</link><pubDate>Thu, 13 Mar 2025 23:26:39 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/03/13/</guid><description>&lt;p>雨のち曇り&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Fri, 14 Mar 2025 23:26:39 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>コンパイル</title><link>https://tomoaki.akiyama.nu/diary/post/2025/03/14/</link><pubDate>Fri, 14 Mar 2025 23:26:39 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/03/14/</guid><description>&lt;p>曇り一時雨&lt;/p>
+&lt;h2 id="コンパイル">コンパイル&lt;/h2>
+&lt;p>emacs 30.1のコンパイル、
+makeでエラーになるのにmake bootstrapではすんなり通った。
+解せぬ。&lt;/p>
+&lt;h2 id="ホワイトデー">ホワイトデー&lt;/h2>
+&lt;p>妻にクッキーの詰め合わせを送る。
+娘は来週末に来るそうなので、その時かな。&lt;/p></description></item><item><title>migemo</title><link>https://tomoaki.akiyama.nu/diary/post/2025/03/13/</link><pubDate>Thu, 13 Mar 2025 23:26:39 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/03/13/</guid><description>&lt;p>雨のち曇り&lt;/p>
 &lt;h2 id="migemo">migemo&lt;/h2>
 &lt;p>久しぶりにmigemoを使ったが、結構便利である。
 MacとFreeBSDにUbuntuはまあ簡単に設定できたが、
