@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Fri, 14 Mar 2025 23:26:39 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>コンパイル</title><link>https://tomoaki.akiyama.nu/diary/post/2025/03/14/</link><pubDate>Fri, 14 Mar 2025 23:26:39 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/03/14/</guid><description>&lt;p>曇り一時雨&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Sat, 15 Mar 2025 22:26:39 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>gnutls</title><link>https://tomoaki.akiyama.nu/diary/post/2025/03/15/</link><pubDate>Sat, 15 Mar 2025 22:26:39 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/03/15/</guid><description>&lt;p>曇り一時雨&lt;/p>
+&lt;h2 id="gnutls">gnutls&lt;/h2>
+&lt;p>emacsのコンパイルに必要なのだが、
+なぜか上手く取り込めない。
+これが無いとmelpaにアクセスできないのだ。&lt;/p></description></item><item><title>コンパイル</title><link>https://tomoaki.akiyama.nu/diary/post/2025/03/14/</link><pubDate>Fri, 14 Mar 2025 23:26:39 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/03/14/</guid><description>&lt;p>曇り一時雨&lt;/p>
 &lt;h2 id="コンパイル">コンパイル&lt;/h2>
 &lt;p>emacs 30.1のコンパイル、
 makeでエラーになるのにmake bootstrapではすんなり通った。
