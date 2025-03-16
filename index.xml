@@ -1,4 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Sat, 15 Mar 2025 22:26:39 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>gnutls</title><link>https://tomoaki.akiyama.nu/diary/post/2025/03/15/</link><pubDate>Sat, 15 Mar 2025 22:26:39 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/03/15/</guid><description>&lt;p>曇り一時雨&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Sun, 16 Mar 2025 23:36:39 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>ワイパー快調</title><link>https://tomoaki.akiyama.nu/diary/post/2025/03/16/</link><pubDate>Sun, 16 Mar 2025 23:36:39 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/03/16/</guid><description>&lt;p>雨&lt;/p>
+&lt;h2 id="ワイパー快調">ワイパー快調&lt;/h2>
+&lt;p>久しぶりに雨中走行だったが、
+12月にワイパーブレードを交換したおかげか快調である。
+大変スムーズに動作し、拭き残しも無い。&lt;/p>
+&lt;h2 id="スポーツモード">スポーツモード&lt;/h2>
+&lt;p>E13ノートにはエコ/ノーマル/スポーツと三つのモードがある。
+普段はエコで走っているのだが、
+どうもスポーツにした方が燃費が良い気がする。&lt;/p></description></item><item><title>gnutls</title><link>https://tomoaki.akiyama.nu/diary/post/2025/03/15/</link><pubDate>Sat, 15 Mar 2025 22:26:39 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/03/15/</guid><description>&lt;p>曇り一時雨&lt;/p>
 &lt;h2 id="gnutls">gnutls&lt;/h2>
 &lt;p>emacsのコンパイルに必要なのだが、
 なぜか上手く取り込めない。
