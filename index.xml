@@ -1,4 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Sun, 30 Mar 2025 23:16:14 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>有明ガーデン</title><link>https://tomoaki.akiyama.nu/diary/post/2025/03/30/</link><pubDate>Sun, 30 Mar 2025 23:16:14 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/03/30/</guid><description>&lt;p>曇り&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Mon, 31 Mar 2025 18:56:40 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>印刷不能</title><link>https://tomoaki.akiyama.nu/diary/post/2025/03/31/</link><pubDate>Mon, 31 Mar 2025 18:56:40 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/03/31/</guid><description>&lt;p>曇りのち雨&lt;/p>
+&lt;h2 id="印刷不能">印刷不能&lt;/h2>
+&lt;p>前々回の日曜日には印刷できたPX-M730Fだが、
+昨日は印刷できなかった。
+PCから見つからないのである。&lt;/p>
+&lt;p>調べたところ、イーサネットレベルではつながるのに、
+DHCPでの設定がうまくいっていないようだ。
+手動で各種数値を設定したら、印刷できるようになった。
+ファームウエアのアップデートでもあったのかなあ。&lt;/p></description></item><item><title>有明ガーデン</title><link>https://tomoaki.akiyama.nu/diary/post/2025/03/30/</link><pubDate>Sun, 30 Mar 2025 23:16:14 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/03/30/</guid><description>&lt;p>曇り&lt;/p>
 &lt;h2 id="有明ガーデン">有明ガーデン&lt;/h2>
 &lt;p>フロアの形やエスカレーターの配置が分散していて、
 全部回れたか怪しい。
@@ -9380,7 +9388,99 @@ CUDAは普通のPCでも使えるのかね。&lt;/p>
 日付と曜日を直接変えられるようになっている。
 もう一つは、竜頭を1段引き出すと時針を動かせるようになっていて、
 24時間分動かすとカレンダーが1日進む。
-後者にはGMT針があるので、時差に対応するためなのだろう。&lt;/p></description></item><item><title>ジョギングシューズ</title><link>https://tomoaki.akiyama.nu/diary/post/2000/09/13/</link><pubDate>Wed, 13 Sep 2000 19:49:56 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2000/09/13/</guid><description>&lt;p>10年ぶりくらいに、ジョギングシューズを履いた。
+後者にはGMT針があるので、時差に対応するためなのだろう。&lt;/p></description></item><item><title>燃費</title><link>https://tomoaki.akiyama.nu/diary/post/2019/06/30/</link><pubDate>Sun, 30 Jun 2019 21:37:10 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2019/06/30/</guid><description>&lt;p>降ったり止んだり&lt;/p>
+&lt;h2 id="燃費">燃費&lt;/h2>
+&lt;p>やはり高速道路を100km/hで巡航するより、郊外を60km/hで巡航した方が燃費はよい。
+高速道路のほうが早く着くのも確かなのだが……。&lt;/p></description></item><item><title>RainX</title><link>https://tomoaki.akiyama.nu/diary/post/2019/06/29/</link><pubDate>Sat, 29 Jun 2019 21:37:10 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2019/06/29/</guid><description>&lt;p>雨&lt;/p>
+&lt;h2 id="rainx">RainX&lt;/h2>
+&lt;p>先週久しぶりに塗っておいたのだが、3秒スプレーでOK、という製品よりは効き目がありそう。&lt;/p></description></item><item><title>通過</title><link>https://tomoaki.akiyama.nu/diary/post/2019/06/28/</link><pubDate>Fri, 28 Jun 2019 21:37:10 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2019/06/28/</guid><description>&lt;p>曇りのち雨&lt;/p>
+&lt;h2 id="通過">通過&lt;/h2>
+&lt;p>朝起きたら、台風は通過していたようである。特に電車のダイヤも乱れることはなかった。&lt;/p></description></item><item><title>Web</title><link>https://tomoaki.akiyama.nu/diary/post/2019/06/27/</link><pubDate>Thu, 27 Jun 2019 21:37:10 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2019/06/27/</guid><description>&lt;p>晴れのち雨&lt;/p>
+&lt;h2 id="web">Web&lt;/h2>
+&lt;p>Concrete5やら、手書きWebのメニューデザインやらで時間を消費。&lt;/p>
+&lt;h2 id="台風3号">台風3号&lt;/h2>
+&lt;p>明日、首都圏に来そう。&lt;/p></description></item><item><title>蒸し暑い</title><link>https://tomoaki.akiyama.nu/diary/post/2019/06/26/</link><pubDate>Wed, 26 Jun 2019 21:37:10 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2019/06/26/</guid><description>&lt;p>晴れのち雨&lt;/p>
+&lt;h2 id="蒸し暑い">蒸し暑い&lt;/h2>
+&lt;p>そろそろ夏の気配がしてきた。&lt;/p></description></item><item><title>梅雨の晴れ間</title><link>https://tomoaki.akiyama.nu/diary/post/2019/06/25/</link><pubDate>Tue, 25 Jun 2019 21:37:10 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2019/06/25/</guid><description>&lt;p>晴れたり曇ったり&lt;/p>
+&lt;h2 id="梅雨の晴れ間">梅雨の晴れ間&lt;/h2>
+&lt;p>今日は降らなさそうなので、バイクで通勤。&lt;/p></description></item><item><title>言動</title><link>https://tomoaki.akiyama.nu/diary/post/2019/06/24/</link><pubDate>Mon, 24 Jun 2019 21:37:10 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2019/06/24/</guid><description>&lt;p>雨のち晴れ&lt;/p>
+&lt;h2 id="言動">言動&lt;/h2>
+&lt;p>最近、息子の言動が大人になりつつある。やはり社会人になると違うのかね。&lt;/p></description></item><item><title>リセット</title><link>https://tomoaki.akiyama.nu/diary/post/2019/06/23/</link><pubDate>Sun, 23 Jun 2019 21:37:10 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2019/06/23/</guid><description>&lt;p>曇り、降りそうで降らない&lt;/p>
+&lt;h2 id="リセット">リセット&lt;/h2>
+&lt;p>妻のスマートフォンが動作異常を起こした。
+LINEはすぐ落ちるし、ホームボタンやタスクマネージャも効かない。
+なので、端末をリセットした。
+幸い、Googleアカウントや、よく使うアプリケーションのアカウント情報はメモしてあったので、
+なんとか復帰できた。
+原因は不明。
+症状としても、あまり見た覚えはない。&lt;/p></description></item><item><title>ガソリン給油</title><link>https://tomoaki.akiyama.nu/diary/post/2019/06/22/</link><pubDate>Sat, 22 Jun 2019 21:37:10 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2019/06/22/</guid><description>&lt;p>降ったり止んだり&lt;/p>
+&lt;h2 id="ガソリン給油">ガソリン給油&lt;/h2>
+&lt;p>FITハイブリッドにガソリンを給油。総走行距離6763kmで36.11L。
+実燃費24.7Km/L。計器上は26.4km/Lなので、誤差6.9%。&lt;/p></description></item><item><title>自動巻き</title><link>https://tomoaki.akiyama.nu/diary/post/2019/06/21/</link><pubDate>Fri, 21 Jun 2019 21:37:10 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2019/06/21/</guid><description>&lt;p>曇ったり晴れたり&lt;/p>
+&lt;h2 id="自動巻き">自動巻き&lt;/h2>
+&lt;p>自動巻き腕時計を付けて寝ると、朝目を覚ました時ほぼ一杯にゼンマイが巻き上がっている。
+自動巻き機構の効率が高いのか、寝ている時も意外と腕を動かしているのか。
+寝相は良い方だと思っていたのだが。&lt;/p></description></item><item><title>Concrete5</title><link>https://tomoaki.akiyama.nu/diary/post/2019/06/20/</link><pubDate>Thu, 20 Jun 2019 21:37:10 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2019/06/20/</guid><description>&lt;p>晴れたり曇ったり&lt;/p>
+&lt;h2 id="concrete5">Concrete5&lt;/h2>
+&lt;p>久しぶりにコンテンツを編集。すっかりやり方を忘れている。&lt;/p></description></item><item><title>時刻合わせ</title><link>https://tomoaki.akiyama.nu/diary/post/2019/06/19/</link><pubDate>Wed, 19 Jun 2019 21:37:10 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2019/06/19/</guid><description>&lt;p>晴れたり曇ったり&lt;/p>
+&lt;h2 id="時刻合わせ">時刻合わせ&lt;/h2>
+&lt;p>取扱説明書を読んだら、セイコーの腕時計はクォーツの場合戻す方向で、
+機械式とスプリングドライブだと進める方向で時刻を合わせるようだ。
+バックラッシュがあるから、戻す方向で合わせるものだと思っていた。&lt;/p></description></item><item><title>背広</title><link>https://tomoaki.akiyama.nu/diary/post/2019/06/18/</link><pubDate>Tue, 18 Jun 2019 21:37:10 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2019/06/18/</guid><description>&lt;p>晴れ&lt;/p>
+&lt;h2 id="背広">背広&lt;/h2>
+&lt;p>久しぶりに仕事で背広。さほど暑くなかったのが救い。&lt;/p></description></item><item><title>駅メモ</title><link>https://tomoaki.akiyama.nu/diary/post/2019/06/17/</link><pubDate>Mon, 17 Jun 2019 21:37:10 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2019/06/17/</guid><description>&lt;p>晴れ&lt;/p>
+&lt;h2 id="駅メモ">駅メモ&lt;/h2>
+&lt;p>GPSで検索したら、いつの間にやらアプリ版のステーションメモリーズができていたようだ。
+機種変更には対応しているようだが、コロプラ版からのデータ引き継ぎはできず、
+独立したゲームになっているのだとか。&lt;/p></description></item><item><title>ドライブ</title><link>https://tomoaki.akiyama.nu/diary/post/2019/06/16/</link><pubDate>Sun, 16 Jun 2019 21:37:10 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2019/06/16/</guid><description>&lt;p>晴れ&lt;/p>
+&lt;h2 id="ドライブ">ドライブ&lt;/h2>
+&lt;p>日立までドライブ。一般道で4時間半、高速道路で2時間といったところか。茨城県制覇まで残り2地域。&lt;/p></description></item><item><title>Landmaster</title><link>https://tomoaki.akiyama.nu/diary/post/2019/06/15/</link><pubDate>Sat, 15 Jun 2019 21:37:10 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2019/06/15/</guid><description>&lt;p>雨&lt;/p>
+&lt;h2 id="landmaster">Landmaster&lt;/h2>
+&lt;p>セイコーのスプリングドライブは魅力的なのだが、
+Grand SeikoにせよCREDORにせよ、
+高い割にデザインが今ひとつ気に入らない。
+が、Landmasterのデザインは気に入った。
+しかもスプリングドライブとしては最廉価ではなかろうか。&lt;/p></description></item><item><title>PROMASTER</title><link>https://tomoaki.akiyama.nu/diary/post/2019/06/14/</link><pubDate>Fri, 14 Jun 2019 21:37:10 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2019/06/14/</guid><description>&lt;p>晴れ&lt;/p>
+&lt;h2 id="promaster">PROMASTER&lt;/h2>
+&lt;p>動きが止まって久しいが、ようやく修理に出す。
+費用は1万8000円、期間は1～1.5ヶ月という見積もりだった。&lt;/p></description></item><item><title>カルマンフィルター</title><link>https://tomoaki.akiyama.nu/diary/post/2019/06/13/</link><pubDate>Thu, 13 Jun 2019 21:37:10 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2019/06/13/</guid><description>&lt;p>晴れ&lt;/p>
+&lt;h2 id="カルマンフィルター">カルマンフィルター&lt;/h2>
+&lt;p>トランジスタ技術の最新号を購入。
+こうして目的があると、数学も勉強しようという気になるのだが……なるだけだが。&lt;/p></description></item><item><title>フロート充電</title><link>https://tomoaki.akiyama.nu/diary/post/2019/06/12/</link><pubDate>Wed, 12 Jun 2019 21:37:10 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2019/06/12/</guid><description>&lt;p>曇り&lt;/p>
+&lt;h2 id="フロート充電">フロート充電&lt;/h2>
+&lt;p>意外と放電していたし、日照も少ないので、今日はフロート充電まで到達しなかったようだ。&lt;/p></description></item><item><title>git LFS続き</title><link>https://tomoaki.akiyama.nu/diary/post/2019/06/11/</link><pubDate>Tue, 11 Jun 2019 21:37:10 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2019/06/11/</guid><description>&lt;p>雨&lt;/p>
+&lt;h2 id="git-lfs続き">git LFS続き&lt;/h2>
+&lt;p>lfsで扱うファイルを保存するサーバーが別途必要になるようだ。
+GitHubあたりのサービスを使うか、
+GitLabのコミュニティ版をオンプレミスで使うかが手っ取り早い。
+AWS S3でもできるそうだが……。&lt;/p></description></item><item><title>git LFS</title><link>https://tomoaki.akiyama.nu/diary/post/2019/06/10/</link><pubDate>Mon, 10 Jun 2019 21:37:10 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2019/06/10/</guid><description>&lt;p>雨&lt;/p>
+&lt;h2 id="git-lfs">git LFS&lt;/h2>
+&lt;p>いつの間にか、git for Windowsには標準でLFSが同梱されているようだ。ちょっと使い方を考えてみよう。&lt;/p></description></item><item><title>梅雨入り</title><link>https://tomoaki.akiyama.nu/diary/post/2019/06/09/</link><pubDate>Sun, 09 Jun 2019 21:37:10 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2019/06/09/</guid><description>&lt;p>雨&lt;/p>
+&lt;h2 id="梅雨入り">梅雨入り&lt;/h2>
+&lt;p>　関東も梅雨入りのようである。&lt;/p>
+&lt;h2 id="ダイソー">ダイソー&lt;/h2>
+&lt;p>500円モバイルバッテリーと、過炭酸ナトリウムを購入。&lt;/p></description></item><item><title>ドライブ</title><link>https://tomoaki.akiyama.nu/diary/post/2019/06/08/</link><pubDate>Sat, 08 Jun 2019 21:37:10 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2019/06/08/</guid><description>&lt;p>晴れ&lt;/p>
+&lt;h2 id="ドライブ">ドライブ&lt;/h2>
+&lt;p>久しぶりに国道20号を使って上野原へ。
+学生時代に1度は通ったはずなのだが、さすがに覚えていなかった。
+高尾駅を過ぎたら、急に田舎の道になった。&lt;/p></description></item><item><title>javascriptでsleep</title><link>https://tomoaki.akiyama.nu/diary/post/2019/06/07/</link><pubDate>Fri, 07 Jun 2019 21:37:10 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2019/06/07/</guid><description>&lt;p>雨&lt;/p>
+&lt;h2 id="javascriptでsleep">javascriptでsleep&lt;/h2>
+&lt;p>直接的には用意されていない。色々と手練手管はあるようだ。でも、IE11でもOKとなると、あんまりね。&lt;/p></description></item><item><title>PuTTYjp</title><link>https://tomoaki.akiyama.nu/diary/post/2019/06/06/</link><pubDate>Thu, 06 Jun 2019 21:37:10 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2019/06/06/</guid><description>&lt;p>晴れ&lt;/p>
+&lt;h2 id="puttyjp">PuTTYjp&lt;/h2>
+&lt;p>0.71ベースにバージョンアップ。&lt;/p></description></item><item><title>電気カミソリ</title><link>https://tomoaki.akiyama.nu/diary/post/2019/06/05/</link><pubDate>Wed, 05 Jun 2019 21:37:10 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2019/06/05/</guid><description>&lt;p>晴れ&lt;/p>
+&lt;h2 id="電気カミソリ">電気カミソリ&lt;/h2>
+&lt;p>久しぶりに充電。&lt;/p>
+&lt;h2 id="電卓用電池">電卓用電池&lt;/h2>
+&lt;p>HP電卓用の単四NiMH電池を充電。EVOLTAの1本が不調。&lt;/p></description></item><item><title>出力低下</title><link>https://tomoaki.akiyama.nu/diary/post/2019/06/04/</link><pubDate>Tue, 04 Jun 2019 21:37:10 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2019/06/04/</guid><description>&lt;p>晴れたり曇ったり&lt;/p>
+&lt;h2 id="出力低下">出力低下&lt;/h2>
+&lt;p>このところ、太陽電池パネルからの出力が低下気味である。
+天候のせいなのか、あまりバッテリーを使っていないせいなのか。&lt;/p></description></item><item><title>体調不良</title><link>https://tomoaki.akiyama.nu/diary/post/2019/06/03/</link><pubDate>Mon, 03 Jun 2019 21:37:10 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2019/06/03/</guid><description>&lt;p>晴れたり曇ったり&lt;/p>
+&lt;h2 id="体調不良">体調不良&lt;/h2>
+&lt;p>またしても乗り物酔いみたいな感じに。&lt;/p></description></item><item><title>ドライブ</title><link>https://tomoaki.akiyama.nu/diary/post/2019/06/02/</link><pubDate>Sun, 02 Jun 2019 21:37:10 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2019/06/02/</guid><description>&lt;p>曇り&lt;/p>
+&lt;h2 id="ドライブ">ドライブ&lt;/h2>
+&lt;p>笠間市、ひたちなか市、常陸太田市で位置登録。茨城県制覇まで、あと三つ。&lt;/p></description></item><item><title>飲み会</title><link>https://tomoaki.akiyama.nu/diary/post/2019/06/01/</link><pubDate>Sat, 01 Jun 2019 21:37:10 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2019/06/01/</guid><description>&lt;p>曇り&lt;/p>
+&lt;h2 id="飲み会">飲み会&lt;/h2>
+&lt;p>高校広報委員会OBの飲み会。今回は押上だった。スカイツリーが近い。&lt;/p></description></item><item><title>ジョギングシューズ</title><link>https://tomoaki.akiyama.nu/diary/post/2000/09/13/</link><pubDate>Wed, 13 Sep 2000 19:49:56 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2000/09/13/</guid><description>&lt;p>10年ぶりくらいに、ジョギングシューズを履いた。
 単にビクトリアで安売りをしていたので、
 自転車に乗るときにあってもいいだろうと思って買ったもの。
 いや、驚いた。軽いし、クッションが効いているしで快適である。
