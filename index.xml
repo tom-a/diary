@@ -1,7 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Fri, 04 Apr 2025 14:51:40 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>帯域制限その2</title><link>https://tomoaki.akiyama.nu/diary/post/2025/04/04/</link><pubDate>Fri, 04 Apr 2025 14:51:40 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/04/04/</guid><description>&lt;p>晴れ&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Sat, 05 Apr 2025 21:51:40 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>ゼブラゾーン</title><link>https://tomoaki.akiyama.nu/diary/post/2025/04/05/</link><pubDate>Sat, 05 Apr 2025 21:51:40 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/04/05/</guid><description>&lt;p>晴れ&lt;/p>
+&lt;h2 id="ゼブラゾーン">ゼブラゾーン&lt;/h2>
+&lt;p>今日も見えた。
+最初は前回同様、
+視野の中心に盲点ができた感じから始まった。
+5分くらいで収まったが。
+これって硝子体が網膜から剥がれていくのを見ているのだろうか。&lt;/p></description></item><item><title>帯域制限その2</title><link>https://tomoaki.akiyama.nu/diary/post/2025/04/04/</link><pubDate>Fri, 04 Apr 2025 14:51:40 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/04/04/</guid><description>&lt;p>晴れ&lt;/p>
 &lt;h2 id="帯域制限その2">帯域制限その2&lt;/h2>
 &lt;p>帯域制限の対象をIPアドレスベースではなく、ポート80と443にした。
-これで外からWeb経由でダウンロードする時だけの制限になるはず？&lt;/p></description></item><item><title>帯域制限</title><link>https://tomoaki.akiyama.nu/diary/post/2025/04/03/</link><pubDate>Thu, 03 Apr 2025 19:09:52 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/04/03/</guid><description>&lt;p>雨&lt;/p>
+これで外からWeb経由でダウンロードする時だけの制限になるはず？&lt;/p>
+&lt;h2 id="ノイズキャンセル">ノイズキャンセル&lt;/h2>
+&lt;p>久しぶりにMDR-EX31BNを使ったら、
+ノイズキャンセルが弱いのにびっくり。
+まあガリガリ言っていたから、
+ピックアップ用のマイクがうまくつながっていないのかもしれない。&lt;/p></description></item><item><title>帯域制限</title><link>https://tomoaki.akiyama.nu/diary/post/2025/04/03/</link><pubDate>Thu, 03 Apr 2025 19:09:52 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/04/03/</guid><description>&lt;p>雨&lt;/p>
 &lt;h2 id="帯域制限">帯域制限&lt;/h2>
 &lt;p>リモートデスクトップがモタつくと思ったら、
 弟がコンテンツをダウンロードしてほぼ帯域を使い切っていた。
