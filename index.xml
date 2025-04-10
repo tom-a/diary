@@ -1,4 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Mon, 07 Apr 2025 20:50:42 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>電力測定</title><link>https://tomoaki.akiyama.nu/diary/post/2025/04/07/</link><pubDate>Mon, 07 Apr 2025 20:50:42 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/04/07/</guid><description>&lt;p>雨のち曇り&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Wed, 09 Apr 2025 20:50:42 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>BlueTooth 3.0</title><link>https://tomoaki.akiyama.nu/diary/post/2025/04/09/</link><pubDate>Wed, 09 Apr 2025 20:50:42 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/04/09/</guid><description>&lt;p>晴れ&lt;/p>
+&lt;h2 id="bluetooth-30">BlueTooth 3.0&lt;/h2>
+&lt;p>iPad用に980円という格安のBlueToothキーボードを買ったのだが、
+これがBlueTooth 3.0対応になっている。
+いったいいつの製品だこりゃ？
+でもメーカーのWebサイトでは現行商品のように見えるなあ。&lt;/p></description></item><item><title>ミニPCでPython</title><link>https://tomoaki.akiyama.nu/diary/post/2025/04/08/</link><pubDate>Tue, 08 Apr 2025 20:50:42 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/04/08/</guid><description>&lt;p>曇り&lt;/p>
+&lt;h2 id="ミニpcでpython">ミニPCでPython&lt;/h2>
+&lt;p>先日入手したミニPCにWindows用のPythonをインストールしたところ、
+うまいこと電力測定用のスクリプトを動かせた。&lt;/p></description></item><item><title>電力測定</title><link>https://tomoaki.akiyama.nu/diary/post/2025/04/07/</link><pubDate>Mon, 07 Apr 2025 20:50:42 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/04/07/</guid><description>&lt;p>雨のち曇り&lt;/p>
 &lt;h2 id="電力測定">電力測定&lt;/h2>
 &lt;p>FreeBSDで結構大量のパッケージアップデートがあった。
 なので再起動したところ、
