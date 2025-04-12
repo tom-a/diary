@@ -1,4 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Thu, 10 Apr 2025 20:50:42 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>夕立</title><link>https://tomoaki.akiyama.nu/diary/post/2025/04/10/</link><pubDate>Thu, 10 Apr 2025 20:50:42 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/04/10/</guid><description>&lt;p>晴れのち雨&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Fri, 11 Apr 2025 21:50:42 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>QRコード</title><link>https://tomoaki.akiyama.nu/diary/post/2025/04/11/</link><pubDate>Fri, 11 Apr 2025 21:50:42 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/04/11/</guid><description>&lt;p>曇り時々雨&lt;/p>
+&lt;h2 id="qrコード">QRコード&lt;/h2>
+&lt;p>自前でQRコードを作るべく、
+&lt;a href="https://github.com/neocotic/qrious">QRious.js&lt;/a>
+を使ったwebページを作成。
+textareaに入力された文字列を1行ごとに配列に変換。
+javascriptのforを回して取り出し、
+新しく生成したdivを追加して、
+さらにその中に入力された文字列とQRコードを追加する。
+これでwebブラウザが許す限りの行を変換できるはず。&lt;/p></description></item><item><title>夕立</title><link>https://tomoaki.akiyama.nu/diary/post/2025/04/10/</link><pubDate>Thu, 10 Apr 2025 20:50:42 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/04/10/</guid><description>&lt;p>晴れのち雨&lt;/p>
 &lt;h2 id="夕立">夕立&lt;/h2>
 &lt;p>というにはちょっと遅いが、19:30くらいから強い雨が降り始めた。
 なんだかんだで22:00くらいまで降っていたようである。&lt;/p></description></item><item><title>BlueTooth 3.0</title><link>https://tomoaki.akiyama.nu/diary/post/2025/04/09/</link><pubDate>Wed, 09 Apr 2025 20:50:42 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/04/09/</guid><description>&lt;p>晴れ&lt;/p>
