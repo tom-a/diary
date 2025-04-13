@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Fri, 11 Apr 2025 21:50:42 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>QRコード</title><link>https://tomoaki.akiyama.nu/diary/post/2025/04/11/</link><pubDate>Fri, 11 Apr 2025 21:50:42 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/04/11/</guid><description>&lt;p>曇り時々雨&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Sat, 12 Apr 2025 21:50:42 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>マグカップ</title><link>https://tomoaki.akiyama.nu/diary/post/2025/04/12/</link><pubDate>Sat, 12 Apr 2025 21:50:42 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/04/12/</guid><description>&lt;p>曇り&lt;/p>
+&lt;h2 id="マグカップ">マグカップ&lt;/h2>
+&lt;p>ドルチェグストでXLの量を抽出しても大丈夫なように、
+430ccとちょっと大きめのマグカップをニトリで購入。
+990円也。&lt;/p></description></item><item><title>QRコード</title><link>https://tomoaki.akiyama.nu/diary/post/2025/04/11/</link><pubDate>Fri, 11 Apr 2025 21:50:42 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/04/11/</guid><description>&lt;p>曇り時々雨&lt;/p>
 &lt;h2 id="qrコード">QRコード&lt;/h2>
 &lt;p>自前でQRコードを作るべく、
 &lt;a href="https://github.com/neocotic/qrious">QRious.js&lt;/a>
