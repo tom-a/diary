@@ -1,4 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Sun, 18 May 2025 19:51:30 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>定期点検</title><link>https://tomoaki.akiyama.nu/diary/post/2025/05/18/</link><pubDate>Sun, 18 May 2025 19:51:30 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/05/18/</guid><description>&lt;p>曇り&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Mon, 19 May 2025 19:53:58 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>スクリプト修正</title><link>https://tomoaki.akiyama.nu/diary/post/2025/05/19/</link><pubDate>Mon, 19 May 2025 19:53:58 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/05/19/</guid><description>&lt;p>曇り&lt;/p>
+&lt;h2 id="スクリプト修正">スクリプト修正&lt;/h2>
+&lt;p>元になるデータがガラッと変わったので、
+変換用のスクリプトを修正。
+作った時はまだEUCが主流だったが、
+今となってはUTF-8にしておいた方が無難だろう。
+文字コード変換などはAI検索で探すと楽ちんである。
+ついでにすっきりするよう、CSVの扱いも少し変えてみた。&lt;/p></description></item><item><title>定期点検</title><link>https://tomoaki.akiyama.nu/diary/post/2025/05/18/</link><pubDate>Sun, 18 May 2025 19:51:30 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/05/18/</guid><description>&lt;p>曇り&lt;/p>
 &lt;h2 id="定期点検">定期点検&lt;/h2>
 &lt;p>ノートの6ヶ月点検。
 特に異常はなし。
