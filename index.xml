@@ -1,4 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Fri, 23 May 2025 10:04:37 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>復活</title><link>https://tomoaki.akiyama.nu/diary/post/2025/05/23/</link><pubDate>Fri, 23 May 2025 10:04:37 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/05/23/</guid><description>&lt;p>晴れたり曇ったり&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Sat, 24 May 2025 22:04:37 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>再活用</title><link>https://tomoaki.akiyama.nu/diary/post/2025/05/24/</link><pubDate>Sat, 24 May 2025 22:04:37 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/05/24/</guid><description>&lt;p>曇りのち雨&lt;/p>
+&lt;h2 id="再活用">再活用&lt;/h2>
+&lt;p>SSDとHDDの両方がほぼ同時に壊れたUM350だが、
+1TBのSSDを買ってきて交換。
+Ubuntu ServerをインストールしてNextcloudを入れてみた。
+やはり細々とイジらないと、なかなか思った通りに動かない。
+snapなんてのを使うと簡単なのだが、
+後からモジュールを追加したりができないのだ。
+なので昔ながらのaptとzip展開でインストール。&lt;/p></description></item><item><title>復活</title><link>https://tomoaki.akiyama.nu/diary/post/2025/05/23/</link><pubDate>Fri, 23 May 2025 10:04:37 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/05/23/</guid><description>&lt;p>晴れたり曇ったり&lt;/p>
 &lt;h2 id="復活">復活&lt;/h2>
 &lt;p>先日「ディスプレイの解像度」で選択肢の減ったディスプレイだが、
 USB経由のディスプレイアダプタを1回他のノートPCにつなげてから戻したら、
