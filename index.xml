@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Sun, 22 Jun 2025 22:14:40 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>ノート修理</title><link>https://tomoaki.akiyama.nu/diary/post/2025/06/22/</link><pubDate>Sun, 22 Jun 2025 22:14:40 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/06/22/</guid><description>&lt;p>晴れ&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Mon, 23 Jun 2025 19:14:57 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>FreeBSDのPython</title><link>https://tomoaki.akiyama.nu/diary/post/2025/06/23/</link><pubDate>Mon, 23 Jun 2025 19:14:57 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/06/23/</guid><description>&lt;p>晴れ&lt;/p>
+&lt;h2 id="freebsdのpython">FreeBSDのPython&lt;/h2>
+&lt;p>以前作ったスクリプトがエラーを起こしていたのだが、
+Pythonのバージョンが上がった時に必要なライブラリをインストールしなかったせいだった。
+pipコマンド一発でインストールできて、無事に動作。&lt;/p></description></item><item><title>ノート修理</title><link>https://tomoaki.akiyama.nu/diary/post/2025/06/22/</link><pubDate>Sun, 22 Jun 2025 22:14:40 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/06/22/</guid><description>&lt;p>晴れ&lt;/p>
 &lt;h2 id="ノート修理">ノート修理&lt;/h2>
 &lt;p>下の張り出した石垣で左フロントフェンダーとサイドシルをゴリゴリしてしまったので、
 修理に出した。
