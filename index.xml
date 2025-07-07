@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Sun, 06 Jul 2025 19:56:21 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>動画編集</title><link>https://tomoaki.akiyama.nu/diary/post/2025/07/06/</link><pubDate>Sun, 06 Jul 2025 19:56:21 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/07/06/</guid><description>&lt;p>晴れたり曇ったり&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Mon, 07 Jul 2025 11:04:21 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>Windows Terminal</title><link>https://tomoaki.akiyama.nu/diary/post/2025/07/07/</link><pubDate>Mon, 07 Jul 2025 11:04:21 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/07/07/</guid><description>&lt;p>晴れたり曇ったり&lt;/p>
+&lt;h2 id="windws-terminal">Windws Terminal&lt;/h2>
+&lt;p>タブを使って複数の通信をまとめられるので、
+Windows Terminalを使ってみた。
+Git for Windowsのbashを使うと、相変わらず「×」を含んだ行の表示がおかしくなる。
+PowerShellを起動してからsshを使うと、多少はましなようだ。&lt;/p></description></item><item><title>動画編集</title><link>https://tomoaki.akiyama.nu/diary/post/2025/07/06/</link><pubDate>Sun, 06 Jul 2025 19:56:21 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/07/06/</guid><description>&lt;p>晴れたり曇ったり&lt;/p>
 &lt;h2 id="動画編集">動画編集&lt;/h2>
 &lt;p>2TBのハードディスクを70%以上使っているので、
 エアチェックした動画を適当に切って保存用のファイルサーバーに移動。
