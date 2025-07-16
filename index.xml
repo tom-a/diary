@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Mon, 14 Jul 2025 17:34:37 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>台風来たる？</title><link>https://tomoaki.akiyama.nu/diary/post/2025/07/14/</link><pubDate>Mon, 14 Jul 2025 17:34:37 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/07/14/</guid><description>&lt;p>曇り一時雨&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Tue, 15 Jul 2025 21:34:37 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>アスペクト</title><link>https://tomoaki.akiyama.nu/diary/post/2025/07/15/</link><pubDate>Tue, 15 Jul 2025 21:34:37 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/07/15/</guid><description>&lt;p>曇りのち雨&lt;/p>
+&lt;h2 id="アスペクト">アスペクト&lt;/h2>
+&lt;p>divの縦横が変に拡大されてしまうので悩んでいたが、
+最近はaspect-ratioという属性で比率を指定できるようになっているのだ。
+これでどうやら解決できそう。&lt;/p></description></item><item><title>台風来たる？</title><link>https://tomoaki.akiyama.nu/diary/post/2025/07/14/</link><pubDate>Mon, 14 Jul 2025 17:34:37 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/07/14/</guid><description>&lt;p>曇り一時雨&lt;/p>
 &lt;h2 id="台風来たる">台風来たる&lt;/h2>
 &lt;p>台風5号がちょうど首都圏近くにやってきそうなので、
 9時ごろチェックアウトしてそのまま帰宅。
