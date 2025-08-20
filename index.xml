@@ -1,4 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Sun, 17 Aug 2025 11:59:38 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>記憶域作成</title><link>https://tomoaki.akiyama.nu/diary/post/2025/08/17/</link><pubDate>Sun, 17 Aug 2025 11:59:38 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/08/17/</guid><description>&lt;p>晴れ&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Mon, 18 Aug 2025 21:59:38 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>再インストール</title><link>https://tomoaki.akiyama.nu/diary/post/2025/08/18/</link><pubDate>Mon, 18 Aug 2025 21:59:38 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/08/18/</guid><description>&lt;p>晴れのち曇り&lt;/p>
+&lt;h2 id="再インストール">再インストール&lt;/h2>
+&lt;p>記憶域プールをいじったせいなのか、OSの動作が怪しくなった。
+なので、久しぶりに再インストールである。
+購入当初は素のWinodows 11でサポートされていなかったハードウエアも、
+今ではほぼ問題なく利用できる。
+さすがにアプリケーションはあらためてインストールする必要があるが、
+断捨離のよい機会である。&lt;/p></description></item><item><title>記憶域作成</title><link>https://tomoaki.akiyama.nu/diary/post/2025/08/17/</link><pubDate>Sun, 17 Aug 2025 11:59:38 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/08/17/</guid><description>&lt;p>晴れ&lt;/p>
 &lt;h2 id="記憶域作成">記憶域作成&lt;/h2>
 &lt;p>二つのハードディスクをそれぞれ7時間半ほどかけてchkdskして、
 一応問題は無かったようである。
