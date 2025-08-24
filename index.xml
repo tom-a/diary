@@ -1,4 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Sat, 23 Aug 2025 19:36:27 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>ペーパータオル</title><link>https://tomoaki.akiyama.nu/diary/post/2025/08/23/</link><pubDate>Sat, 23 Aug 2025 19:36:27 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/08/23/</guid><description>&lt;p>晴れ&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Sun, 24 Aug 2025 23:28:17 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>narou</title><link>https://tomoaki.akiyama.nu/diary/post/2025/08/24/</link><pubDate>Sun, 24 Aug 2025 23:28:17 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/08/24/</guid><description>&lt;p>晴れ&lt;/p>
+&lt;h2 id="narou">narou&lt;/h2>
+&lt;p>OSを再インストールしたので、narou関係も再ストール。
+java21とAozoraEpub3-1.1.1b30Qと、テンプレートへのパッチは問題なかった。
+しかしerubisがもうサポートされていない。
+なのでappserver.rbの&lt;code>#require &amp;ldquo;tilt/erubis&amp;rdquo;&lt;/code>を&lt;code>require &amp;ldquo;tilt/erubi&amp;rdquo;&lt;/code>に書き換えて、
+&lt;code>gem install erubi -v 1.13&lt;/code>でインストール。
+なんとか動くようになった。&lt;/p></description></item><item><title>ペーパータオル</title><link>https://tomoaki.akiyama.nu/diary/post/2025/08/23/</link><pubDate>Sat, 23 Aug 2025 19:36:27 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/08/23/</guid><description>&lt;p>晴れ&lt;/p>
 &lt;h2 id="ペーパータオル">ペーパータオル&lt;/h2>
 &lt;p>トイレのペーパータオルが無くなったので購入。
 新型コロナ禍以来、すっかりペーパータオル派である。&lt;/p></description></item><item><title>炭酸ガスカートリッジ</title><link>https://tomoaki.akiyama.nu/diary/post/2025/08/22/</link><pubDate>Fri, 22 Aug 2025 19:46:27 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/08/22/</guid><description>&lt;p>曇り&lt;/p>
