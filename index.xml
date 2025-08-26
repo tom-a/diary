@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Sun, 24 Aug 2025 23:28:17 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>narou</title><link>https://tomoaki.akiyama.nu/diary/post/2025/08/24/</link><pubDate>Sun, 24 Aug 2025 23:28:17 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/08/24/</guid><description>&lt;p>晴れ&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Mon, 25 Aug 2025 22:28:17 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>復活</title><link>https://tomoaki.akiyama.nu/diary/post/2025/08/25/</link><pubDate>Mon, 25 Aug 2025 22:28:17 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/08/25/</guid><description>&lt;p>曇り一時雨&lt;/p>
+&lt;h2 id="復活">復活&lt;/h2>
+&lt;p>記憶域プールにあった壊れかけのハードディスクは交換した。
+さてもう1台と思い、念のためCrystalDiskInfoを起動したら、
+問題が無くなっている。
+ええ、こんなこともあるんだあ。&lt;/p></description></item><item><title>narou</title><link>https://tomoaki.akiyama.nu/diary/post/2025/08/24/</link><pubDate>Sun, 24 Aug 2025 23:28:17 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/08/24/</guid><description>&lt;p>晴れ&lt;/p>
 &lt;h2 id="narou">narou&lt;/h2>
 &lt;p>OSを再インストールしたので、narou関係も再ストール。
 java21とAozoraEpub3-1.1.1b30Qと、テンプレートへのパッチは問題なかった。
