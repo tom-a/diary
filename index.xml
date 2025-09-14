@@ -1,4 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Sat, 13 Sep 2025 21:56:10 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>歯医者</title><link>https://tomoaki.akiyama.nu/diary/post/2025/09/13/</link><pubDate>Sat, 13 Sep 2025 21:56:10 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/09/13/</guid><description>&lt;p>曇り時々雨&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Sun, 14 Sep 2025 23:02:56 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>アルバムシャッフル</title><link>https://tomoaki.akiyama.nu/diary/post/2025/09/14/</link><pubDate>Sun, 14 Sep 2025 23:02:56 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/09/14/</guid><description>&lt;p>降ったり曇ったり照ったり&lt;/p>
+&lt;h2 id="アルバムシャッフル">アルバムシャッフル&lt;/h2>
+&lt;p>iPodがソリッドステート化されてからはや幾星霜。
+iPhoneに至るまで未だにアルバム単位のシャッフル再生がサポートされない。
+しかたなく自作プログラムを使っていたのだが、
+最近はコンパイル時に「もう古い」と警告が出るようになっていた。
+なのでSwiftUIとMusicKitで作り直して、
+選択したプレイリストをアルバム単位でシャッフルして、
+SystemMusicPlayer.queueに放り込んで再生を始める所まではできた。&lt;/p></description></item><item><title>歯医者</title><link>https://tomoaki.akiyama.nu/diary/post/2025/09/13/</link><pubDate>Sat, 13 Sep 2025 21:56:10 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/09/13/</guid><description>&lt;p>曇り時々雨&lt;/p>
 &lt;h2 id="歯医者">歯医者&lt;/h2>
 &lt;p>歯周病は一進一退。
 左下の奥歯が欠けたので、来週詰め物をすることに。
@@ -12,8 +20,8 @@ Fromが@eoit.com。
 &lt;p>今年は珍しく、予約開始と同時にApple Storeでオーダー。
 iPhone 17 Pro 256GBで、17万9800円。
 iPhone 16 Proの下取りが9万円で、
-ギフトカードが1万4000円。
-差し引き7万5800円で買えるはず？&lt;/p></description></item><item><title>豪雨</title><link>https://tomoaki.akiyama.nu/diary/post/2025/09/11/</link><pubDate>Thu, 11 Sep 2025 18:54:18 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/09/11/</guid><description>&lt;p>晴れのち曇り一時豪雨&lt;/p>
+ギフトカードが1万9000円。
+差し引き7万800円で買えるはず？&lt;/p></description></item><item><title>豪雨</title><link>https://tomoaki.akiyama.nu/diary/post/2025/09/11/</link><pubDate>Thu, 11 Sep 2025 18:54:18 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/09/11/</guid><description>&lt;p>晴れのち曇り一時豪雨&lt;/p>
 &lt;h2 id="豪雨">豪雨&lt;/h2>
 &lt;p>久しぶりに結構な量の雨が降った。
 石神井川が危なかったらしいし、目黒の方で川があふれたとか。
