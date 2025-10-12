@@ -1,4 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Sat, 11 Oct 2025 19:03:04 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>STREAM DECK</title><link>https://tomoaki.akiyama.nu/diary/post/2025/10/11/</link><pubDate>Sat, 11 Oct 2025 19:03:04 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/10/11/</guid><description>&lt;p&gt;曇りときどき雨&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Sun, 12 Oct 2025 19:03:04 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>SOLIX C300 DC</title><link>https://tomoaki.akiyama.nu/diary/post/2025/10/12/</link><pubDate>Sun, 12 Oct 2025 19:03:04 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/10/12/</guid><description>&lt;p&gt;曇り&lt;/p&gt;
+&lt;h2 id="solix-c300-dc"&gt;SOLIX C300 DC&lt;/h2&gt;
+&lt;p&gt;ANKER製のAC入出力が無いポータブル電源。
+というか大きなモバイルバッテリーと言うべきか。
+容量は288Whで、USB Type-CかXT60で充電する。
+USB Type-Cは充電可能なコネクタが2個、出力専用が2個。
+Type-Aが2個に車で言うアクセサリーソケットが1個。
+ポートによって出力が違う。
+とりあえず、手持ちの125W USB充電器で充電を始めて、
+ANKERのアプリで接続したらさっそくファームウェアのアップデートである。&lt;/p&gt;</description></item><item><title>STREAM DECK</title><link>https://tomoaki.akiyama.nu/diary/post/2025/10/11/</link><pubDate>Sat, 11 Oct 2025 19:03:04 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/10/11/</guid><description>&lt;p&gt;曇りときどき雨&lt;/p&gt;
 &lt;h2 id="stream-deck"&gt;STREAM DECK&lt;/h2&gt;
 &lt;p&gt;日付と時間をワンタッチで入力できないかと思って購入。
 そのためだけに2万円はちょっと高いが、
