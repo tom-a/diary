@@ -1,4 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Sun, 12 Oct 2025 19:03:04 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>SOLIX C300 DC</title><link>https://tomoaki.akiyama.nu/diary/post/2025/10/12/</link><pubDate>Sun, 12 Oct 2025 19:03:04 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/10/12/</guid><description>&lt;p&gt;曇り&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Mon, 13 Oct 2025 19:03:04 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>太陽光で充電</title><link>https://tomoaki.akiyama.nu/diary/post/2025/10/13/</link><pubDate>Mon, 13 Oct 2025 19:03:04 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/10/13/</guid><description>&lt;p&gt;曇り&lt;/p&gt;
+&lt;h2 id="太陽光で充電"&gt;太陽光で充電&lt;/h2&gt;
+&lt;p&gt;普段から使っている太陽電池パネルからのケーブルにXT60のコネクタを半田付けして、
+SOLIX C300 DCにつなげてみた。
+いちおう充電はするのだが、
+天候のせいか5Wくらいしか給電されない。
+週末までは晴れないみたいだが、
+まあお天気任せだからのんびりやるしかないな。&lt;/p&gt;</description></item><item><title>SOLIX C300 DC</title><link>https://tomoaki.akiyama.nu/diary/post/2025/10/12/</link><pubDate>Sun, 12 Oct 2025 19:03:04 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/10/12/</guid><description>&lt;p&gt;曇り&lt;/p&gt;
 &lt;h2 id="solix-c300-dc"&gt;SOLIX C300 DC&lt;/h2&gt;
 &lt;p&gt;ANKER製のAC入出力が無いポータブル電源。
 というか大きなモバイルバッテリーと言うべきか。
@@ -14,7 +21,11 @@ ANKERのアプリで接続したらさっそくファームウェアのアップ
 面白そうだし貯まったポイントで購入できたのでつい。&lt;/p&gt;</description></item><item><title>原稿書き</title><link>https://tomoaki.akiyama.nu/diary/post/2025/10/10/</link><pubDate>Fri, 10 Oct 2025 19:03:04 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/10/10/</guid><description>&lt;p&gt;曇り&lt;/p&gt;
 &lt;h2 id="原稿書き"&gt;原稿書き&lt;/h2&gt;
 &lt;p&gt;ようやく貯めていた仕事に着手。
-全部は終わらなかった。&lt;/p&gt;</description></item><item><title>クローラー</title><link>https://tomoaki.akiyama.nu/diary/post/2025/10/09/</link><pubDate>Thu, 09 Oct 2025 19:03:04 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/10/09/</guid><description>&lt;p&gt;曇り&lt;/p&gt;
+全部は終わらなかった。&lt;/p&gt;
+&lt;h2 id="視界不良"&gt;視界不良&lt;/h2&gt;
+&lt;p&gt;視界中央に盲点のような部分が現れ、
+中央上部から左に向かって直線上のゼブラゾーン。
+10:25あたりに始まって、10:45くらいに治まった。&lt;/p&gt;</description></item><item><title>クローラー</title><link>https://tomoaki.akiyama.nu/diary/post/2025/10/09/</link><pubDate>Thu, 09 Oct 2025 19:03:04 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/10/09/</guid><description>&lt;p&gt;曇り&lt;/p&gt;
 &lt;h2 id="クローラー"&gt;クローラー&lt;/h2&gt;
 &lt;p&gt;9月10日にクローラーからと思しきアクセスが大量に発生していた。
 悪意からというより、単なるバグのような気がする。&lt;/p&gt;</description></item><item><title>モバイルバッテリー</title><link>https://tomoaki.akiyama.nu/diary/post/2025/10/08/</link><pubDate>Wed, 08 Oct 2025 19:03:04 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/10/08/</guid><description>&lt;p&gt;曇り&lt;/p&gt;
