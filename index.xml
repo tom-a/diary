@@ -1,4 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Sat, 25 Oct 2025 19:34:14 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>Xubuntu</title><link>https://tomoaki.akiyama.nu/diary/post/2025/10/25/</link><pubDate>Sat, 25 Oct 2025 19:34:14 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/10/25/</guid><description>&lt;p&gt;曇りのち雨&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Sun, 26 Oct 2025 19:43:54 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>NシリーズCPU</title><link>https://tomoaki.akiyama.nu/diary/post/2025/10/26/</link><pubDate>Sun, 26 Oct 2025 19:43:54 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/10/26/</guid><description>&lt;p&gt;曇ときどき雨&lt;/p&gt;
+&lt;h2 id="nシリーズcpu"&gt;NシリーズCPU&lt;/h2&gt;
+&lt;p&gt;N150はちょっとした作業ですぐにCPU利用率が100%に貼り付くが、
+N97はそうでもない。
+結構違いがあるのだなあ。&lt;/p&gt;
+&lt;h2 id="windowss-25h2"&gt;Windowss 25H2&lt;/h2&gt;
+&lt;p&gt;なんかロックが解けたのか、
+自宅で使っているマシンがことごとくアップデートである。
+結構、時間がかかる。&lt;/p&gt;</description></item><item><title>Xubuntu</title><link>https://tomoaki.akiyama.nu/diary/post/2025/10/25/</link><pubDate>Sat, 25 Oct 2025 19:34:14 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/10/25/</guid><description>&lt;p&gt;曇りのち雨&lt;/p&gt;
 &lt;h2 id="xubuntu"&gt;Xubuntu&lt;/h2&gt;
 &lt;p&gt;Ubuntuの軽量版ということで、
 XubuntuをX1 Carbon 3rdにインストールしてみた。
