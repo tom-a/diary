@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Sun, 26 Oct 2025 19:43:54 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>NシリーズCPU</title><link>https://tomoaki.akiyama.nu/diary/post/2025/10/26/</link><pubDate>Sun, 26 Oct 2025 19:43:54 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/10/26/</guid><description>&lt;p&gt;曇ときどき雨&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Mon, 27 Oct 2025 23:43:54 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>GA4にMCP経由でGeminiを使う</title><link>https://tomoaki.akiyama.nu/diary/post/2025/10/27/</link><pubDate>Mon, 27 Oct 2025 23:43:54 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/10/27/</guid><description>&lt;p&gt;曇り&lt;/p&gt;
+&lt;h2 id="ga4にmcp経由でgeminiを使う"&gt;GA4にMCP経由でGeminiを使う&lt;/h2&gt;
+&lt;p&gt;Pythonを入れて、Python製のMCPサーバーを入れて、
+Googleの認証を設定して、細々とした設定ファイルをいじって、
+なんとか動くようになった。
+確かにずいぶんと楽ができるが、どうも数字が信用できない。&lt;/p&gt;</description></item><item><title>NシリーズCPU</title><link>https://tomoaki.akiyama.nu/diary/post/2025/10/26/</link><pubDate>Sun, 26 Oct 2025 19:43:54 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/10/26/</guid><description>&lt;p&gt;曇りときどき雨&lt;/p&gt;
 &lt;h2 id="nシリーズcpu"&gt;NシリーズCPU&lt;/h2&gt;
 &lt;p&gt;N150はちょっとした作業ですぐにCPU利用率が100%に貼り付くが、
 N97はそうでもない。
