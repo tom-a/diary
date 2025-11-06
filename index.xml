@@ -1,4 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Mon, 03 Nov 2025 20:39:48 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>空気補充</title><link>https://tomoaki.akiyama.nu/diary/post/2025/11/03/</link><pubDate>Mon, 03 Nov 2025 20:39:48 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/11/03/</guid><description>&lt;p&gt;晴れたり曇ったり降ったり&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Tue, 04 Nov 2025 21:39:48 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>chkdsk</title><link>https://tomoaki.akiyama.nu/diary/post/2025/11/04/</link><pubDate>Tue, 04 Nov 2025 21:39:48 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/11/04/</guid><description>&lt;p&gt;晴れのち曇り&lt;/p&gt;
+&lt;h2 id="chkdsk"&gt;chkdsk&lt;/h2&gt;
+&lt;p&gt;バックアップに使っていた外付けHDDがマウントできなくなったので、
+再フォーマットしてからchkdskをかけた。
+不良セクタのチェックも行ったので、1TBに2時間くらいかかった。
+結果的にまだ使えそう。
+エラーの原因はなんだったんだか。&lt;/p&gt;</description></item><item><title>空気補充</title><link>https://tomoaki.akiyama.nu/diary/post/2025/11/03/</link><pubDate>Mon, 03 Nov 2025 20:39:48 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/11/03/</guid><description>&lt;p&gt;晴れたり曇ったり降ったり&lt;/p&gt;
 &lt;h2 id="空気補充"&gt;空気補充&lt;/h2&gt;
 &lt;p&gt;E13ノートのタイヤに空気を補充。
 気温が下がってきたせいか、
