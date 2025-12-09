@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Mon, 08 Dec 2025 23:45:59 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>地震</title><link>https://tomoaki.akiyama.nu/diary/post/2025/12/08/</link><pubDate>Mon, 08 Dec 2025 23:45:59 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/12/08/</guid><description>&lt;p&gt;晴れ&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Tue, 09 Dec 2025 22:45:59 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>ssh-agent</title><link>https://tomoaki.akiyama.nu/diary/post/2025/12/09/</link><pubDate>Tue, 09 Dec 2025 22:45:59 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/12/09/</guid><description>&lt;p&gt;晴れのち曇り&lt;/p&gt;
+&lt;h2 id="ssh-agent"&gt;ssh-agent&lt;/h2&gt;
+&lt;p&gt;以前から使えるのだが、つい面倒になってしまう。
+なので.bashrcに組み込んだ。
+鍵の削除とプロセスの終了は.bash_logoutでできそうだ。&lt;/p&gt;</description></item><item><title>地震</title><link>https://tomoaki.akiyama.nu/diary/post/2025/12/08/</link><pubDate>Mon, 08 Dec 2025 23:45:59 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/12/08/</guid><description>&lt;p&gt;晴れ&lt;/p&gt;
 &lt;h2 id="地震"&gt;地震&lt;/h2&gt;
 &lt;p&gt;夜中に結構長い地震が起きた。
 震度そのものは大きくなかったが、
