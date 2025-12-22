@@ -1,4 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Thu, 18 Dec 2025 18:48:03 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>Vertex AI Search</title><link>https://tomoaki.akiyama.nu/diary/post/2025/12/18/</link><pubDate>Thu, 18 Dec 2025 18:48:03 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/12/18/</guid><description>&lt;p&gt;晴れ&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Sun, 21 Dec 2025 18:48:03 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>Raspberry Pi 4 4GB購入</title><link>https://tomoaki.akiyama.nu/diary/post/2025/12/21/</link><pubDate>Sun, 21 Dec 2025 18:48:03 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/12/21/</guid><description>&lt;p&gt;雨のち曇り&lt;/p&gt;
+&lt;h2 id="raspberry-pi-4-4gb購入"&gt;Raspberry Pi 4 4GB購入&lt;/h2&gt;
+&lt;p&gt;Home Assistant OSを動かすべく、Raspberry Pi 4 4GBを購入。
+まずは普通のOSが動くかどうかを確認しなくては。&lt;/p&gt;</description></item><item><title>今年は二人</title><link>https://tomoaki.akiyama.nu/diary/post/2025/12/20/</link><pubDate>Sat, 20 Dec 2025 20:48:03 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/12/20/</guid><description>&lt;p&gt;曇りのち雨&lt;/p&gt;
+&lt;h2 id="今年は二人"&gt;今年は二人&lt;/h2&gt;
+&lt;p&gt;学生時代からの友人と会う。
+今年は直前に風邪を引いたメンバーがいて、
+やってきたのは二人。
+まあ、皆さんお変わりなく、だった。&lt;/p&gt;</description></item><item><title>下り坂</title><link>https://tomoaki.akiyama.nu/diary/post/2025/12/19/</link><pubDate>Fri, 19 Dec 2025 19:48:03 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/12/19/</guid><description>&lt;p&gt;曇り&lt;/p&gt;
+&lt;h2 id="下り坂"&gt;下り坂&lt;/h2&gt;
+&lt;p&gt;今日は曇りで、週末は雨らしい。&lt;/p&gt;</description></item><item><title>Vertex AI Search</title><link>https://tomoaki.akiyama.nu/diary/post/2025/12/18/</link><pubDate>Thu, 18 Dec 2025 18:48:03 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/12/18/</guid><description>&lt;p&gt;晴れ&lt;/p&gt;
 &lt;h2 id="vertex-ai-search"&gt;Vertex AI Search&lt;/h2&gt;
 &lt;p&gt;直接問いと答えを放り込むわけにはいかないらしい。
 jsonl形式で記述したファイルを、
@@ -1666,6 +1676,7 @@ ipfwで自宅セグメントとWireGuardセグメントの行き来を許可す�
 &lt;li&gt;Thunderbolt4のダウンストリーム x 3&lt;/li&gt;
 &lt;li&gt;USB-A 3.1 Gen2 x 3&lt;/li&gt;
 &lt;li&gt;USB-A 2.0 x 1&lt;/li&gt;
+&lt;li&gt;SDカードリーダ/ライタ&lt;/li&gt;
 &lt;li&gt;DC電源コネクタ&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;がある。&lt;/p&gt;</description></item><item><title>顔認証</title><link>https://tomoaki.akiyama.nu/diary/post/2024/12/18/</link><pubDate>Wed, 18 Dec 2024 23:25:46 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2024/12/18/</guid><description>&lt;p&gt;晴れ時々曇り&lt;/p&gt;
