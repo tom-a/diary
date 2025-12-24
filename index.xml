@@ -1,4 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Tue, 23 Dec 2025 22:33:34 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>書き込み不良</title><link>https://tomoaki.akiyama.nu/diary/post/2025/12/23/</link><pubDate>Tue, 23 Dec 2025 22:33:34 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/12/23/</guid><description>&lt;p&gt;晴れ&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Wed, 24 Dec 2025 17:01:40 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>書き込み</title><link>https://tomoaki.akiyama.nu/diary/post/2025/12/24/</link><pubDate>Wed, 24 Dec 2025 17:01:40 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/12/24/</guid><description>&lt;p&gt;雨&lt;/p&gt;
+&lt;h2 id="書き込み"&gt;書き込み&lt;/h2&gt;
+&lt;p&gt;昨日書き込みエラーの起きたMicro SDカードだが、
+一旦Winodwsで領域をすべて開放し、
+改めて確保した領域をFAT32でフォーマット。
+その後chkdsk.exeで全セクターにエラーがないことを確認してから、
+無事Raspberry Pi Imagerで書き込みに成功。&lt;/p&gt;</description></item><item><title>書き込み不良</title><link>https://tomoaki.akiyama.nu/diary/post/2025/12/23/</link><pubDate>Tue, 23 Dec 2025 22:33:34 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2025/12/23/</guid><description>&lt;p&gt;晴れ&lt;/p&gt;
 &lt;h2 id="書き込み不良"&gt;書き込み不良&lt;/h2&gt;
 &lt;p&gt;Home Assistant OSをMicro SDカードに書き込もうと思ったら、
 エラーで止まってしまった。
