@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Sun, 11 Jan 2026 22:23:56 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>リモートアクセス</title><link>https://tomoaki.akiyama.nu/diary/post/2026/01/11/</link><pubDate>Sun, 11 Jan 2026 22:23:56 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/01/11/</guid><description>&lt;p&gt;晴れ&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Mon, 12 Jan 2026 18:48:15 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>消費電力</title><link>https://tomoaki.akiyama.nu/diary/post/2026/01/12/</link><pubDate>Mon, 12 Jan 2026 18:48:15 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/01/12/</guid><description>&lt;p&gt;晴れ&lt;/p&gt;
+&lt;h2 id="消費電力"&gt;消費電力&lt;/h2&gt;
+&lt;p&gt;River 2 Maxで充電していると、
+MacBook Air 13インチ M3 2024は平常の充電で30〜40Wくらい、
+生成AIで負荷が上がると60〜70Wくらいを要求するようだ。&lt;/p&gt;</description></item><item><title>リモートアクセス</title><link>https://tomoaki.akiyama.nu/diary/post/2026/01/11/</link><pubDate>Sun, 11 Jan 2026 22:23:56 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/01/11/</guid><description>&lt;p&gt;晴れ&lt;/p&gt;
 &lt;h2 id="リモートアクセス"&gt;リモートアクセス&lt;/h2&gt;
 &lt;p&gt;Mac miniは基本的にリモートアクセスである。
 macOSだと標準の「画面共有」、
