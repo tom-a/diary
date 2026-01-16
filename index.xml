@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Wed, 14 Jan 2026 19:19:26 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>ルイボスティー</title><link>https://tomoaki.akiyama.nu/diary/post/2026/01/14/</link><pubDate>Wed, 14 Jan 2026 19:19:26 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/01/14/</guid><description>&lt;p&gt;晴れ&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Thu, 15 Jan 2026 18:29:26 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>自賠責保険</title><link>https://tomoaki.akiyama.nu/diary/post/2026/01/15/</link><pubDate>Thu, 15 Jan 2026 18:29:26 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/01/15/</guid><description>&lt;p&gt;晴れのち曇り&lt;/p&gt;
+&lt;h2 id="自賠責保険"&gt;自賠責保険&lt;/h2&gt;
+&lt;p&gt;任意保険に引き続き、バイクの自賠責保険を継続。
+こちらは7-11から来たハガキを出すだけで便利なのだが、
+最寄りの店舗は滅多にやらない作業なので大変そうである。&lt;/p&gt;</description></item><item><title>ルイボスティー</title><link>https://tomoaki.akiyama.nu/diary/post/2026/01/14/</link><pubDate>Wed, 14 Jan 2026 19:19:26 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/01/14/</guid><description>&lt;p&gt;晴れ&lt;/p&gt;
 &lt;h2 id="ルイボスティー"&gt;ルイボスティー&lt;/h2&gt;
 &lt;p&gt;Blendyの芳醇はちみつルイボスティーを飲んでみた。
 ちょっと甘みが強いようだ。
@@ -19,7 +23,7 @@ WindowsだとVNCを使うとなんとかなる。
 コマンドラインなら、いつも通りsshである。
 うっかりemacs.appを起動するとGUIな方が起動してちょっと面倒だが。&lt;/p&gt;</description></item><item><title>Mac mini</title><link>https://tomoaki.akiyama.nu/diary/post/2026/01/10/</link><pubDate>Sat, 10 Jan 2026 18:06:35 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/01/10/</guid><description>&lt;p&gt;晴れ&lt;/p&gt;
 &lt;h2 id="mac-mini"&gt;Mac mini&lt;/h2&gt;
-&lt;p&gt;というわけで、M4に32GBメモリ、512GB
+&lt;p&gt;「&lt;a href="../05/"&gt;グラフィックボード&lt;/a&gt;」というわけで、M4に32GBメモリ、512GB
 SSDなMac miniを18万4800円で購入。
 余分なアプリケーションを削除した後、
 Draw ThingsとLM Studioをインストール。
