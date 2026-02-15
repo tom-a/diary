@@ -1,4 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Fri, 13 Feb 2026 11:34:06 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>ハードディスクエラー</title><link>https://tomoaki.akiyama.nu/diary/post/2026/02/13/</link><pubDate>Fri, 13 Feb 2026 11:34:06 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/02/13/</guid><description>&lt;p&gt;曇り&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Sat, 14 Feb 2026 18:34:06 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>ハードディスク交換</title><link>https://tomoaki.akiyama.nu/diary/post/2026/02/14/</link><pubDate>Sat, 14 Feb 2026 18:34:06 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/02/14/</guid><description>&lt;p&gt;晴れ&lt;/p&gt;
+&lt;h2 id="ハードディスク交換"&gt;ハードディスク交換&lt;/h2&gt;
+&lt;p&gt;壊れた1TBのハードディスクを余っていた2TBのハードディスクに交換。
+しかし一旦GPTのパーティションを切っていたせいか&lt;kbd&gt;zpool
+offline&lt;/kbd&gt;してもdevice busyになり、
+パーティションを切り直せなかった。
+なのでWindowsマシンに繋いでパーティションを全削除。
+再度繋ぎ直して、パーティションを切り直す。
+ブートコードを書き込んでから&lt;kbd&gt;zpool replade zroot ada0p3&lt;/kbd&gt;で、
+resilveringを開始。
+後は待つだけである。&lt;/p&gt;</description></item><item><title>ハードディスクエラー</title><link>https://tomoaki.akiyama.nu/diary/post/2026/02/13/</link><pubDate>Fri, 13 Feb 2026 11:34:06 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/02/13/</guid><description>&lt;p&gt;曇りのち晴れ&lt;/p&gt;
 &lt;h2 id="ハードディスクエラー"&gt;ハードディスクエラー&lt;/h2&gt;
 &lt;p&gt;サーバーからの定期メールがこないと思ったら、
 zfsを構成しているハードディスクにエラーが起きていた。
