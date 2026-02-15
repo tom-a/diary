@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Sat, 14 Feb 2026 18:34:06 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>ハードディスク交換</title><link>https://tomoaki.akiyama.nu/diary/post/2026/02/14/</link><pubDate>Sat, 14 Feb 2026 18:34:06 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/02/14/</guid><description>&lt;p&gt;晴れ&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Sun, 15 Feb 2026 22:34:06 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>reslivering</title><link>https://tomoaki.akiyama.nu/diary/post/2026/02/15/</link><pubDate>Sun, 15 Feb 2026 22:34:06 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/02/15/</guid><description>&lt;p&gt;晴れ&lt;/p&gt;
+&lt;h2 id="reslivering"&gt;reslivering&lt;/h2&gt;
+&lt;p&gt;zfsの再構築、当初は500MB/sくらいだったのがだんだん遅くなり、
+とうとう残り時間が表示されなくなってしまった。
+古いハードディスクが壊れるのと、どっちが先かなあ。&lt;/p&gt;</description></item><item><title>ハードディスク交換</title><link>https://tomoaki.akiyama.nu/diary/post/2026/02/14/</link><pubDate>Sat, 14 Feb 2026 18:34:06 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/02/14/</guid><description>&lt;p&gt;晴れ&lt;/p&gt;
 &lt;h2 id="ハードディスク交換"&gt;ハードディスク交換&lt;/h2&gt;
 &lt;p&gt;壊れた1TBのハードディスクを余っていた2TBのハードディスクに交換。
 しかし一旦GPTのパーティションを切っていたせいか&lt;kbd&gt;zpool
