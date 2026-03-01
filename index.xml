@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Fri, 27 Feb 2026 19:27:18 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>数値文字参照</title><link>https://tomoaki.akiyama.nu/diary/post/2026/02/27/</link><pubDate>Fri, 27 Feb 2026 19:27:18 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/02/27/</guid><description>&lt;p&gt;晴れたり曇ったり&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Sat, 28 Feb 2026 21:27:18 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>emacs lisp</title><link>https://tomoaki.akiyama.nu/diary/post/2026/02/28/</link><pubDate>Sat, 28 Feb 2026 21:27:18 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/02/28/</guid><description>&lt;p&gt;晴れ&lt;/p&gt;
+&lt;h2 id="emacs-lisp"&gt;emacs lisp&lt;/h2&gt;
+&lt;p&gt;今時はLLMなAIに聞くと、だいたいが解決するようだ。
+モデルによってちょっとずつ回答が違うけど、
+とりあえず動けばよいのだ。&lt;/p&gt;</description></item><item><title>数値文字参照</title><link>https://tomoaki.akiyama.nu/diary/post/2026/02/27/</link><pubDate>Fri, 27 Feb 2026 19:27:18 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/02/27/</guid><description>&lt;p&gt;晴れたり曇ったり&lt;/p&gt;
 &lt;h2 id="数値文字参照"&gt;数値文字参照&lt;/h2&gt;
 &lt;p&gt;spam避けに使えそうだが、
 既存のテキストを書き換えるのはけっこう大変である。
