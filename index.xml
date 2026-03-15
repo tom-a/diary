@@ -1,4 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Fri, 13 Mar 2026 18:13:52 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>emacsで</title><link>https://tomoaki.akiyama.nu/diary/post/2026/03/13/</link><pubDate>Fri, 13 Mar 2026 18:13:52 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/03/13/</guid><description>&lt;p&gt;曇り&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Sun, 15 Mar 2026 16:07:01 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>MacBook Air M5</title><link>https://tomoaki.akiyama.nu/diary/post/2026/03/15/</link><pubDate>Sun, 15 Mar 2026 16:07:01 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/03/15/</guid><description>&lt;p&gt;晴れ&lt;/p&gt;
+&lt;h2 id="macbook-air-m5"&gt;MacBook Air M5&lt;/h2&gt;
+&lt;p&gt;AI関連が速くなるそうなので、
+誘惑に負けてしまった。&lt;/p&gt;
+&lt;p&gt;M5 10コアCPU 8コアGPU 16コアNeural Engine、
+16GBメモリ、512GB SSDで18万4800円也。
+MacBook Air M3よりも安くなっているな。&lt;/p&gt;</description></item><item><title>ホワイトデー</title><link>https://tomoaki.akiyama.nu/diary/post/2026/03/14/</link><pubDate>Sat, 14 Mar 2026 19:13:52 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/03/14/</guid><description>&lt;p&gt;晴れ&lt;/p&gt;
+&lt;h2 id="ホワイトデー"&gt;ホワイトデー&lt;/h2&gt;
+&lt;p&gt;気がつくと3月14日である。
+安物ではあるが、妻にプレゼント。
+弟もちゃんとお返しをしたようである。&lt;/p&gt;</description></item><item><title>emacsで</title><link>https://tomoaki.akiyama.nu/diary/post/2026/03/13/</link><pubDate>Fri, 13 Mar 2026 18:13:52 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/03/13/</guid><description>&lt;p&gt;曇り&lt;/p&gt;
 &lt;h2 id="emacsで"&gt;emacsで&lt;/h2&gt;
 &lt;p&gt;VS CodeやWebStormだと、
 ローカルで編集しているファイルをサーバーにアップロードできる。
