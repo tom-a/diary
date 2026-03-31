@@ -1,4 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Sun, 29 Mar 2026 15:01:39 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>工事下見</title><link>https://tomoaki.akiyama.nu/diary/post/2026/03/29/</link><pubDate>Sun, 29 Mar 2026 15:01:39 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/03/29/</guid><description>&lt;p&gt;晴れ&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Mon, 30 Mar 2026 21:01:39 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>emacsに回帰</title><link>https://tomoaki.akiyama.nu/diary/post/2026/03/30/</link><pubDate>Mon, 30 Mar 2026 21:01:39 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/03/30/</guid><description>&lt;p&gt;晴れ&lt;/p&gt;
+&lt;h2 id="emacsに回帰"&gt;emacsに回帰&lt;/h2&gt;
+&lt;p&gt;VS-CodeやWebStormを使ってみたが、
+結局emacsに回帰。
+キーアサインが微妙に違うんだよなあ。
+なので、編集中のファイルをサーバーとやり取りする関数を作って、
+適当なキーバインドに当てはめる。
+ディレクトリまるごとは面倒なので、
+その場合はscpやFileZillaを使う。
+まあこれで十分かな。&lt;/p&gt;</description></item><item><title>工事下見</title><link>https://tomoaki.akiyama.nu/diary/post/2026/03/29/</link><pubDate>Sun, 29 Mar 2026 15:01:39 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/03/29/</guid><description>&lt;p&gt;晴れ&lt;/p&gt;
 &lt;h2 id="工事下見"&gt;工事下見&lt;/h2&gt;
 &lt;p&gt;太陽光発電システム設置の下見。
 蓄電池が大きくなり、
