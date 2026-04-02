@@ -1,8 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Tue, 31 Mar 2026 20:01:39 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>トラップ</title><link>https://tomoaki.akiyama.nu/diary/post/2026/03/31/</link><pubDate>Tue, 31 Mar 2026 20:01:39 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/03/31/</guid><description>&lt;p&gt;雨&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Wed, 01 Apr 2026 19:35:53 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>難読化</title><link>https://tomoaki.akiyama.nu/diary/post/2026/04/01/</link><pubDate>Wed, 01 Apr 2026 19:35:53 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/04/01/</guid><description>&lt;p&gt;雨&lt;/p&gt;
+&lt;h2 id="難読化"&gt;難読化&lt;/h2&gt;
+&lt;p&gt;spam避けにメールアドレスを難読化するのだが、
+機会が増えたのでemacsでできるようにした。
+以前はrubyで作ったCLIコマンドで変換してコピー＆ペーストしていた。&lt;/p&gt;</description></item><item><title>トラップ</title><link>https://tomoaki.akiyama.nu/diary/post/2026/03/31/</link><pubDate>Tue, 31 Mar 2026 20:01:39 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/03/31/</guid><description>&lt;p&gt;雨&lt;/p&gt;
 &lt;h2 id="トラップ"&gt;トラップ&lt;/h2&gt;
 &lt;p&gt;床にこびりついた紙を剥がすため、
 濡れたタオルをしばらく被せておいた。
-で、気づかずに踏んでしまった人がいた。&lt;/p&gt;</description></item><item><title>emacsに回帰</title><link>https://tomoaki.akiyama.nu/diary/post/2026/03/30/</link><pubDate>Mon, 30 Mar 2026 21:01:39 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/03/30/</guid><description>&lt;p&gt;晴れ&lt;/p&gt;
+で、気づかずに踏んでしまった人がいた。&lt;/p&gt;
+&lt;h2 id="iモード終了"&gt;iモード終了&lt;/h2&gt;
+&lt;p&gt;積極的に使ったことはないが、画期的ではあった。&lt;/p&gt;</description></item><item><title>emacsに回帰</title><link>https://tomoaki.akiyama.nu/diary/post/2026/03/30/</link><pubDate>Mon, 30 Mar 2026 21:01:39 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/03/30/</guid><description>&lt;p&gt;晴れ&lt;/p&gt;
 &lt;h2 id="emacsに回帰"&gt;emacsに回帰&lt;/h2&gt;
 &lt;p&gt;VS-CodeやWebStormを使ってみたが、
 結局emacsに回帰。
