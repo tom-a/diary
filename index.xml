@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Thu, 09 Apr 2026 19:16:07 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>帯域制限</title><link>https://tomoaki.akiyama.nu/diary/post/2026/04/09/</link><pubDate>Thu, 09 Apr 2026 19:16:07 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/04/09/</guid><description>&lt;p&gt;曇り&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Fri, 10 Apr 2026 17:16:07 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>帯域制限2</title><link>https://tomoaki.akiyama.nu/diary/post/2026/04/10/</link><pubDate>Fri, 10 Apr 2026 17:16:07 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/04/10/</guid><description>&lt;p&gt;雨&lt;/p&gt;
+&lt;h2 id="帯域制限2"&gt;帯域制限2&lt;/h2&gt;
+&lt;p&gt;rootのcrontabで朝に仕事用のPCはいつでもフルスピード、
+それ以外のPCは50Mbpsに帯域を絞るようなスクリプトを実行する。
+夜には帯域制限無しのスクリプトを実行する。
+これで仕事中にリモートデスクトップが遅くなることは無くなるか？&lt;/p&gt;</description></item><item><title>帯域制限</title><link>https://tomoaki.akiyama.nu/diary/post/2026/04/09/</link><pubDate>Thu, 09 Apr 2026 19:16:07 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/04/09/</guid><description>&lt;p&gt;曇り&lt;/p&gt;
 &lt;h2 id="帯域制限"&gt;帯域制限&lt;/h2&gt;
 &lt;p&gt;昼間に弟がコンテンツのダウンロードを始めると、
 覿面にリモートアクセスが遅くなる。
