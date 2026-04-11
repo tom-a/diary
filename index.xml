@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Fri, 10 Apr 2026 17:16:07 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>帯域制限2</title><link>https://tomoaki.akiyama.nu/diary/post/2026/04/10/</link><pubDate>Fri, 10 Apr 2026 17:16:07 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/04/10/</guid><description>&lt;p&gt;雨&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Sat, 11 Apr 2026 18:27:51 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>地球帰還</title><link>https://tomoaki.akiyama.nu/diary/post/2026/04/11/</link><pubDate>Sat, 11 Apr 2026 18:27:51 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/04/11/</guid><description>&lt;p&gt;晴れ&lt;/p&gt;
+&lt;h2 id="地球帰還"&gt;地球帰還&lt;/h2&gt;
+&lt;p&gt;アルテミス2は無事地球に帰還したようである。&lt;/p&gt;
+&lt;h2 id="電池交換"&gt;電池交換&lt;/h2&gt;
+&lt;p&gt;コンクエストVHPの電池交換を依頼&lt;/p&gt;</description></item><item><title>帯域制限2</title><link>https://tomoaki.akiyama.nu/diary/post/2026/04/10/</link><pubDate>Fri, 10 Apr 2026 17:16:07 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/04/10/</guid><description>&lt;p&gt;雨&lt;/p&gt;
 &lt;h2 id="帯域制限2"&gt;帯域制限2&lt;/h2&gt;
 &lt;p&gt;rootのcrontabで朝に仕事用のPCはいつでもフルスピード、
 それ以外のPCは50Mbpsに帯域を絞るようなスクリプトを実行する。
