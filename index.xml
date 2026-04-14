@@ -1,4 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Mon, 13 Apr 2026 18:29:59 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>49.7日</title><link>https://tomoaki.akiyama.nu/diary/post/2026/04/13/</link><pubDate>Mon, 13 Apr 2026 18:29:59 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/04/13/</guid><description>&lt;p&gt;晴れたり曇ったり&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Tue, 14 Apr 2026 18:34:11 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>ディスプレイアダプタ</title><link>https://tomoaki.akiyama.nu/diary/post/2026/04/14/</link><pubDate>Tue, 14 Apr 2026 18:34:11 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/04/14/</guid><description>&lt;p&gt;晴れたり曇ったり&lt;/p&gt;
+&lt;h2 id="ディスプレイアダプタ"&gt;ディスプレイアダプタ&lt;/h2&gt;
+&lt;p&gt;さすがに、USB-Type Aから出力して、
+USB-Type Cなディスプレイ入力に接続できるアダプタは無いようだ。
+4kプラグ＆プレイなんてうたっているのは、
+要するにUSB-Type CのAlt Display Modeである。
+USB-Type Aだと、やっぱりドライバのインストールが必要なのだ。
+まあ私は静止画しか表示しないので、
+そんなに高性能で無くて良いのだが。&lt;/p&gt;</description></item><item><title>49.7日</title><link>https://tomoaki.akiyama.nu/diary/post/2026/04/13/</link><pubDate>Mon, 13 Apr 2026 18:29:59 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/04/13/</guid><description>&lt;p&gt;晴れたり曇ったり&lt;/p&gt;
 &lt;h2 id="497日"&gt;49.7日&lt;/h2&gt;
 &lt;p&gt;Macを49.7日連続稼働させると、
 新しいTCP/IP接続ができなくなるらしい。
