@@ -1,4 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Fri, 17 Apr 2026 19:05:02 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>Gemini CLI</title><link>https://tomoaki.akiyama.nu/diary/post/2026/04/17/</link><pubDate>Fri, 17 Apr 2026 19:05:02 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/04/17/</guid><description>&lt;p&gt;晴れのち曇り&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Sat, 18 Apr 2026 18:05:02 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>電池交換</title><link>https://tomoaki.akiyama.nu/diary/post/2026/04/18/</link><pubDate>Sat, 18 Apr 2026 18:05:02 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/04/18/</guid><description>&lt;p&gt;晴れのち曇り&lt;/p&gt;
+&lt;h2 id="電池交換"&gt;電池交換&lt;/h2&gt;
+&lt;p&gt;AB9000-61Eが10日に止まっていたので、
+ヨドバシカメラで電池交換を依頼。
+さすがに&lt;a href="https://citizen.jp/the-citizen/"&gt;ザ・シチズン&lt;/a&gt;だけあって、
+メーカー送りで6600円。
+ゴールデンウィークを挟むので2ヶ月くらいかかると言われた。&lt;/p&gt;</description></item><item><title>Gemini CLI</title><link>https://tomoaki.akiyama.nu/diary/post/2026/04/17/</link><pubDate>Fri, 17 Apr 2026 19:05:02 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/04/17/</guid><description>&lt;p&gt;晴れのち曇り&lt;/p&gt;
 &lt;h2 id="gemini-cli"&gt;Gemini CLI&lt;/h2&gt;
 &lt;p&gt;試しに自作プログラムを読み込ませたら、
 速攻で「エラーハンドリングがなっとらん」と書き換えを提案された。&lt;/p&gt;</description></item><item><title>いつの間にか</title><link>https://tomoaki.akiyama.nu/diary/post/2026/04/16/</link><pubDate>Thu, 16 Apr 2026 20:05:02 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/04/16/</guid><description>&lt;p&gt;晴れ&lt;/p&gt;
