@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Sun, 03 May 2026 18:40:07 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>パッチ</title><link>https://tomoaki.akiyama.nu/diary/post/2026/05/03/</link><pubDate>Sun, 03 May 2026 18:40:07 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/05/03/</guid><description>&lt;p&gt;晴れの曇り&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Mon, 04 May 2026 18:46:58 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>娘夫婦来訪</title><link>https://tomoaki.akiyama.nu/diary/post/2026/05/04/</link><pubDate>Mon, 04 May 2026 18:46:58 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/05/04/</guid><description>&lt;p&gt;曇り&lt;/p&gt;
+&lt;h2 id="娘夫婦来訪"&gt;娘夫婦来訪&lt;/h2&gt;
+&lt;p&gt;孫を連れて娘夫婦が来訪。
+孫は歩き回るようになった。
+普段と違う場所が楽しいのか、歩きづめである。
+探検に出かけるのも、まあ子供なら当然だろう。&lt;/p&gt;</description></item><item><title>パッチ</title><link>https://tomoaki.akiyama.nu/diary/post/2026/05/03/</link><pubDate>Sun, 03 May 2026 18:40:07 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/05/03/</guid><description>&lt;p&gt;晴れの曇り&lt;/p&gt;
 &lt;h2 id="パッチ"&gt;パッチ&lt;/h2&gt;
 &lt;p&gt;このところ頻繁にFreeBSDのパッチが出ている。
 ルーターを兼ねているPCは、
