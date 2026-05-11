@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Fri, 08 May 2026 19:20:32 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>再インストール</title><link>https://tomoaki.akiyama.nu/diary/post/2026/05/08/</link><pubDate>Fri, 08 May 2026 19:20:32 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/05/08/</guid><description>&lt;p&gt;晴れたり曇ったり&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Sat, 09 May 2026 21:20:32 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>再コンパイル</title><link>https://tomoaki.akiyama.nu/diary/post/2026/05/09/</link><pubDate>Sat, 09 May 2026 21:20:32 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/05/09/</guid><description>&lt;p&gt;晴れ&lt;/p&gt;
+&lt;h2 id="再コンパイル"&gt;再コンパイル&lt;/h2&gt;
+&lt;p&gt;どうやらエラーの原因は、
+バイトコンパイルしたパッケージと新しいパッケージが食い違ったためのようである。
+こんな時は、&lt;code&gt;package-recompile-all&lt;/code&gt;を実行すればよいらしい。&lt;/p&gt;</description></item><item><title>再インストール</title><link>https://tomoaki.akiyama.nu/diary/post/2026/05/08/</link><pubDate>Fri, 08 May 2026 19:20:32 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/05/08/</guid><description>&lt;p&gt;晴れたり曇ったり&lt;/p&gt;
 &lt;h2 id="再インストール"&gt;再インストール&lt;/h2&gt;
 &lt;p&gt;emacsのパッケージをアップデートしたら、
 verticoがエラーを出したり、
