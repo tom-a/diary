@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Fri, 12 Jun 2026 23:35:38 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>antigravity</title><link>https://tomoaki.akiyama.nu/diary/post/2026/06/12/</link><pubDate>Fri, 12 Jun 2026 23:35:38 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/06/12/</guid><description>&lt;p&gt;晴れ一時雷雨&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Sat, 13 Jun 2026 22:35:38 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>一太郎</title><link>https://tomoaki.akiyama.nu/diary/post/2026/06/13/</link><pubDate>Sat, 13 Jun 2026 22:35:38 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/06/13/</guid><description>&lt;p&gt;晴れ&lt;/p&gt;
+&lt;h2 id="一太郎"&gt;一太郎&lt;/h2&gt;
+&lt;p&gt;「ツールボックスが開けない」といって起動しない。
+再インストールしてもダメ。
+まあATOKは使えているから致命的では無いが。
+そろそろOSをクリーンインストールする時期か。&lt;/p&gt;</description></item><item><title>antigravity</title><link>https://tomoaki.akiyama.nu/diary/post/2026/06/12/</link><pubDate>Fri, 12 Jun 2026 23:35:38 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/06/12/</guid><description>&lt;p&gt;晴れ一時雷雨&lt;/p&gt;
 &lt;h2 id="antigravity"&gt;antigravity&lt;/h2&gt;
 &lt;p&gt;Gemini CLI改めantigravity CLIを使ってみた。
 Hermes Agentにもましてサクサクとプログラムの改善が進む。
