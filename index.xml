@@ -1,4 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Sat, 13 Jun 2026 22:35:38 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>一太郎</title><link>https://tomoaki.akiyama.nu/diary/post/2026/06/13/</link><pubDate>Sat, 13 Jun 2026 22:35:38 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/06/13/</guid><description>&lt;p&gt;晴れ&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Mon, 15 Jun 2026 01:44:39 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>Remo E</title><link>https://tomoaki.akiyama.nu/diary/post/2026/06/15/</link><pubDate>Mon, 15 Jun 2026 01:44:39 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/06/15/</guid><description>&lt;p&gt;曇り&lt;/p&gt;
+&lt;h2 id="remo-e"&gt;Remo E&lt;/h2&gt;
+&lt;p&gt;太陽光発電・蓄電システム導入に伴い、
+1階のRemo E Liteと2階のRemo Eを入れ替える必要がある。
+が、なかなかうまく行かない。
+デバイスが見えなかったり、スマートメーターを探せなかったり。
+何度もやり直すハメになった。&lt;/p&gt;</description></item><item><title>PLC</title><link>https://tomoaki.akiyama.nu/diary/post/2026/06/14/</link><pubDate>Sun, 14 Jun 2026 21:45:35 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/06/14/</guid><description>&lt;p&gt;晴れのち曇り&lt;/p&gt;
+&lt;h2 id="plc"&gt;PLC&lt;/h2&gt;
+&lt;p&gt;太陽光発電・蓄電システムの工事で「コンセントが一つ必要です」と言われたが、
+なんと電源では無くPLCとイーサネットのブリッジを付けるためだった。
+まだPLCって生き残っていたんだなあ。&lt;/p&gt;</description></item><item><title>一太郎</title><link>https://tomoaki.akiyama.nu/diary/post/2026/06/13/</link><pubDate>Sat, 13 Jun 2026 22:35:38 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/06/13/</guid><description>&lt;p&gt;晴れ&lt;/p&gt;
 &lt;h2 id="一太郎"&gt;一太郎&lt;/h2&gt;
 &lt;p&gt;「ツールボックスが開けない」といって起動しない。
 再インストールしてもダメ。
