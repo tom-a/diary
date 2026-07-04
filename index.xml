@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Fri, 03 Jul 2026 19:20:43 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>FreeBSDアップグレード</title><link>https://tomoaki.akiyama.nu/diary/post/2026/07/03/</link><pubDate>Fri, 03 Jul 2026 19:20:43 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/07/03/</guid><description>&lt;p&gt;曇りのち雨&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Sat, 04 Jul 2026 18:56:50 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>リコール</title><link>https://tomoaki.akiyama.nu/diary/post/2026/07/04/</link><pubDate>Sat, 04 Jul 2026 18:56:50 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/07/04/</guid><description>&lt;p&gt;曇り&lt;/p&gt;
+&lt;h2 id="リコール"&gt;リコール&lt;/h2&gt;
+&lt;p&gt;ノートのリコールが発表されたので、ディーラーで確認した。
+ばっちり対象である。
+6日の昼休みにあずけて、夕方取りに行くことになった。&lt;/p&gt;</description></item><item><title>FreeBSDアップグレード</title><link>https://tomoaki.akiyama.nu/diary/post/2026/07/03/</link><pubDate>Fri, 03 Jul 2026 19:20:43 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/07/03/</guid><description>&lt;p&gt;曇りのち雨&lt;/p&gt;
 &lt;h2 id="freebsdアップグレード"&gt;FreeBSDアップグレード&lt;/h2&gt;
 &lt;p&gt;FreeBSDを15.1にアップグレード。
 zfsのバージョンが上がって、upgradeしろと表示される。
