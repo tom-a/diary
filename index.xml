@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja_JP.utf-8</language><lastBuildDate>Tue, 14 Jul 2026 18:29:23 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>1000BASE</title><link>https://tomoaki.akiyama.nu/diary/post/2026/07/14/</link><pubDate>Tue, 14 Jul 2026 18:29:23 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/07/14/</guid><description>&lt;p&gt;晴れ時々曇り&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja_JP.utf-8</language><lastBuildDate>Wed, 15 Jul 2026 18:28:09 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>視力？</title><link>https://tomoaki.akiyama.nu/diary/post/2026/07/15/</link><pubDate>Wed, 15 Jul 2026 18:28:09 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/07/15/</guid><description>&lt;p&gt;晴れ&lt;/p&gt;
+&lt;h2 id="視力"&gt;視力？&lt;/h2&gt;
+&lt;p&gt;ここ1ヶ月くらいで、急に目が衰えた。
+すぐに疲れ目でショボショボして、視界のどこにもピントが合わなくなる。
+老眼になり始めの頃も似たような感じだったが、
+眼鏡の度が合っていないのだろうか。&lt;/p&gt;</description></item><item><title>1000BASE</title><link>https://tomoaki.akiyama.nu/diary/post/2026/07/14/</link><pubDate>Tue, 14 Jul 2026 18:29:23 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/07/14/</guid><description>&lt;p&gt;晴れ時々曇り&lt;/p&gt;
 &lt;h2 id="1000base"&gt;1000BASE&lt;/h2&gt;
 &lt;p&gt;サーバーとして動かしているミニPCの、
 外部接続用NICをUSB 3.0ベースの1000BASE-Tに交換。
