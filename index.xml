@@ -1,4 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja_JP.utf-8</language><lastBuildDate>Fri, 31 Jul 2026 19:34:50 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>扇風機</title><link>https://tomoaki.akiyama.nu/diary/post/2026/07/31/</link><pubDate>Fri, 31 Jul 2026 19:34:50 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/07/31/</guid><description>&lt;p&gt;晴れ&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja_JP.utf-8</language><lastBuildDate>Sat, 01 Aug 2026 15:16:26 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>napt不能</title><link>https://tomoaki.akiyama.nu/diary/post/2026/08/01/</link><pubDate>Sat, 01 Aug 2026 15:16:26 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/08/01/</guid><description>&lt;p&gt;晴れ&lt;/p&gt;
+&lt;h2 id="napt不能"&gt;napt不能&lt;/h2&gt;
+&lt;p&gt;FreeBSDのバージョンを15.1-p2にしたら、naptが効かなくなった。
+というか、外のネットワークに出て行けない。
+naptを無効にすると、外のネットワークにもアクセスできる。
+geminiに聞いたら、ipfwでのnat設定が微妙に変わっているようだった。
+指示通りに設定を修正して、なんとかnaptが動くようになった。&lt;/p&gt;</description></item><item><title>扇風機</title><link>https://tomoaki.akiyama.nu/diary/post/2026/07/31/</link><pubDate>Fri, 31 Jul 2026 19:34:50 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/07/31/</guid><description>&lt;p&gt;晴れ&lt;/p&gt;
 &lt;h2 id="扇風機"&gt;扇風機&lt;/h2&gt;
 &lt;p&gt;相変わらずの猛暑日だが、
 昼間の寝室は意外と暑くなかった。
