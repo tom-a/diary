@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja_JP.utf-8</language><lastBuildDate>Sat, 01 Aug 2026 15:16:26 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>napt不能</title><link>https://tomoaki.akiyama.nu/diary/post/2026/08/01/</link><pubDate>Sat, 01 Aug 2026 15:16:26 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/08/01/</guid><description>&lt;p&gt;晴れ&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja_JP.utf-8</language><lastBuildDate>Sun, 02 Aug 2026 19:29:00 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>WSL</title><link>https://tomoaki.akiyama.nu/diary/post/2026/08/02/</link><pubDate>Sun, 02 Aug 2026 19:29:00 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/08/02/</guid><description>&lt;p&gt;晴れのち曇り一時雨&lt;/p&gt;
+&lt;h2 id="wsl"&gt;WSL&lt;/h2&gt;
+&lt;p&gt;そろそろ使ってみようかなあ。
+それにしても、大抵のPDFはA4サイズで出力されているから、
+タブレットで見ると微妙に文字が小さくて読みにくい。
+ソースがあれば、B5サイズで出力できるのか？&lt;/p&gt;</description></item><item><title>napt不能</title><link>https://tomoaki.akiyama.nu/diary/post/2026/08/01/</link><pubDate>Sat, 01 Aug 2026 15:16:26 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/08/01/</guid><description>&lt;p&gt;晴れのち曇り&lt;/p&gt;
 &lt;h2 id="napt不能"&gt;napt不能&lt;/h2&gt;
 &lt;p&gt;FreeBSDのバージョンを15.1-p2にしたら、naptが効かなくなった。
 というか、外のネットワークに出て行けない。
