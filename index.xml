@@ -1,4 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja_JP.utf-8</language><lastBuildDate>Thu, 03 Sep 2026 22:37:26 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>清掃</title><link>https://tomoaki.akiyama.nu/diary/post/2026/09/03/</link><pubDate>Thu, 03 Sep 2026 22:37:26 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/09/03/</guid><description>&lt;p&gt;曇り一時雨&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja_JP.utf-8</language><lastBuildDate>Fri, 04 Sep 2026 19:28:29 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>評価</title><link>https://tomoaki.akiyama.nu/diary/post/2026/09/04/</link><pubDate>Fri, 04 Sep 2026 19:28:29 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/09/04/</guid><description>&lt;p&gt;曇りのち雨&lt;/p&gt;
+&lt;h2 id="評価"&gt;評価&lt;/h2&gt;
+&lt;p&gt;Google Agent Platform検索の結果を、
+同じGoogle Agent PlatformのAPIで評価できるらしい。
+まずは想定問答集で問いと正しい答えを作らねば。
+Excelで作るのが楽なのだが、喰わせるデータはjsonl。
+CSVで吐き出してrubyで書き換えるか。&lt;/p&gt;</description></item><item><title>清掃</title><link>https://tomoaki.akiyama.nu/diary/post/2026/09/03/</link><pubDate>Thu, 03 Sep 2026 22:37:26 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/09/03/</guid><description>&lt;p&gt;曇り一時雨&lt;/p&gt;
 &lt;h2 id="清掃"&gt;清掃&lt;/h2&gt;
 &lt;p&gt;久しぶりに明るいところで見た業務用ノートPCが結構汚れていた。
 少し清掃する。&lt;/p&gt;</description></item><item><title>Switchbot</title><link>https://tomoaki.akiyama.nu/diary/post/2026/09/02/</link><pubDate>Wed, 02 Sep 2026 12:37:26 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/09/02/</guid><description>&lt;p&gt;曇り&lt;/p&gt;
