@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja_JP.utf-8</language><lastBuildDate>Fri, 04 Sep 2026 19:28:29 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>評価</title><link>https://tomoaki.akiyama.nu/diary/post/2026/09/04/</link><pubDate>Fri, 04 Sep 2026 19:28:29 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/09/04/</guid><description>&lt;p&gt;曇りのち雨&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja_JP.utf-8</language><lastBuildDate>Sat, 05 Sep 2026 22:12:17 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>タイヤ空気圧</title><link>https://tomoaki.akiyama.nu/diary/post/2026/09/05/</link><pubDate>Sat, 05 Sep 2026 22:12:17 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/09/05/</guid><description>&lt;p&gt;雨のち曇り&lt;/p&gt;
+&lt;h2 id="タイヤ空気圧"&gt;タイヤ空気圧&lt;/h2&gt;
+&lt;p&gt;外気温25℃で前輪2.3k/gm&lt;sup&gt;2&lt;/sup&gt;、
+後輪2.1kg/m&lt;sup&gt;2&lt;/sup&gt;と規定通りの空気圧になった。
+これからは時々補充しないといけない季節になるのだなあ。&lt;/p&gt;</description></item><item><title>評価</title><link>https://tomoaki.akiyama.nu/diary/post/2026/09/04/</link><pubDate>Fri, 04 Sep 2026 19:28:29 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/09/04/</guid><description>&lt;p&gt;曇りのち雨&lt;/p&gt;
 &lt;h2 id="評価"&gt;評価&lt;/h2&gt;
 &lt;p&gt;Google Agent Platform検索の結果を、
 同じGoogle Agent PlatformのAPIで評価できるらしい。
