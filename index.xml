@@ -1,4 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja_JP.utf-8</language><lastBuildDate>Sun, 13 Sep 2026 18:04:30 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>ポイント</title><link>https://tomoaki.akiyama.nu/diary/post/2026/09/13/</link><pubDate>Sun, 13 Sep 2026 18:04:30 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/09/13/</guid><description>&lt;p&gt;曇りのち晴れ&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja_JP.utf-8</language><lastBuildDate>Mon, 14 Sep 2026 22:32:51 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>久しぶりの晴れ</title><link>https://tomoaki.akiyama.nu/diary/post/2026/09/14/</link><pubDate>Mon, 14 Sep 2026 22:32:51 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/09/14/</guid><description>&lt;p&gt;晴れ&lt;/p&gt;
+&lt;h2 id="久しぶりの晴れ"&gt;久しぶりの晴れ&lt;/h2&gt;
+&lt;p&gt;久しぶりに晴れて、太陽光発電も調子がよい。&lt;/p&gt;
+&lt;h2 id="api-key"&gt;API Key&lt;/h2&gt;
+&lt;p&gt;RemoのAPIで電力関係の情報が取れないなあと思っていたが、
+取得したAPIキーが古くてRemo Eに対応していないのだった。
+新しくAPIキーを取得して、
+無事電力関係の情報も取れるようになった。&lt;/p&gt;</description></item><item><title>ポイント</title><link>https://tomoaki.akiyama.nu/diary/post/2026/09/13/</link><pubDate>Sun, 13 Sep 2026 18:04:30 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/09/13/</guid><description>&lt;p&gt;曇りのち晴れ&lt;/p&gt;
 &lt;h2 id="ポイント"&gt;ポイント&lt;/h2&gt;
 &lt;p&gt;iPhone 18 Proは最低でも22万円コースなので怖じ気づいたが、
 そういえばポイントが貯まっているのを思い出した。
