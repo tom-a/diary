@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja_JP.utf-8</language><lastBuildDate>Tue, 15 Sep 2026 14:13:26 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>グラフ化</title><link>https://tomoaki.akiyama.nu/diary/post/2026/09/15/</link><pubDate>Tue, 15 Sep 2026 14:13:26 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/09/15/</guid><description>&lt;p&gt;雨のち曇り&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja_JP.utf-8</language><lastBuildDate>Wed, 16 Sep 2026 19:13:26 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>誕生日</title><link>https://tomoaki.akiyama.nu/diary/post/2026/09/16/</link><pubDate>Wed, 16 Sep 2026 19:13:26 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/09/16/</guid><description>&lt;p&gt;雨&lt;/p&gt;
+&lt;h2 id="誕生日"&gt;誕生日&lt;/h2&gt;
+&lt;p&gt;今日は弟の誕生日である。
+特にプレゼントなどをあげたわけではないが、
+LINEで家族からお祝いされていた。
+私は直接おめでとう、と言った。&lt;/p&gt;</description></item><item><title>グラフ化</title><link>https://tomoaki.akiyama.nu/diary/post/2026/09/15/</link><pubDate>Tue, 15 Sep 2026 14:13:26 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/09/15/</guid><description>&lt;p&gt;雨のち曇り&lt;/p&gt;
 &lt;h2 id="グラフ化"&gt;グラフ化&lt;/h2&gt;
 &lt;p&gt;無事太陽光発電や蓄電池のデータをとれるようになったので、さっそくグラフ化。
 しかし、実際に家庭内で何W消費しているのかはデータとしてとれないようだ。
