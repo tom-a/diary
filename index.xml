@@ -1,4 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja_JP.utf-8</language><lastBuildDate>Fri, 25 Sep 2026 23:42:52 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>懇親会</title><link>https://tomoaki.akiyama.nu/diary/post/2026/09/25/</link><pubDate>Fri, 25 Sep 2026 23:42:52 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/09/25/</guid><description>&lt;p&gt;晴れ&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>智朗の徒然日記</title><link>https://tomoaki.akiyama.nu/diary/</link><description>Recent content on 智朗の徒然日記</description><generator>Hugo</generator><language>ja_JP.utf-8</language><lastBuildDate>Sat, 26 Sep 2026 22:01:34 +0900</lastBuildDate><atom:link href="https://tomoaki.akiyama.nu/diary/index.xml" rel="self" type="application/rss+xml"/><item><title>llama.cpp</title><link>https://tomoaki.akiyama.nu/diary/post/2026/09/26/</link><pubDate>Sat, 26 Sep 2026 22:01:34 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/09/26/</guid><description>&lt;p&gt;雨&lt;/p&gt;
+&lt;h2 id="llamacpp"&gt;llama.cpp&lt;/h2&gt;
+&lt;p&gt;brewでインストールしていたが、
+0.4.1から0.5.0になった時点でllama-serverへのアクセスでFile not
+Foundのエラーを返すようになってしまった。
+少し調べたがうまくいかず、
+結局githubからcloneして手元でビルドしたらうまくいった。&lt;/p&gt;</description></item><item><title>懇親会</title><link>https://tomoaki.akiyama.nu/diary/post/2026/09/25/</link><pubDate>Fri, 25 Sep 2026 23:42:52 +0900</pubDate><guid>https://tomoaki.akiyama.nu/diary/post/2026/09/25/</guid><description>&lt;p&gt;晴れ&lt;/p&gt;
 &lt;h2 id="懇親会"&gt;懇親会&lt;/h2&gt;
 &lt;p&gt;今日はオフィス勤務の日で、そのまま懇親会になだれ込んだ。
 なんだかんだと23:00くらいでお開きに。&lt;/p&gt;
